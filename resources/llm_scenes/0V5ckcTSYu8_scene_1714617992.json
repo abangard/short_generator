@@ -1,0 +1,20 @@
+[
+  {
+    "start_time": 28.32,
+    "end_time": 42.089,
+    "short_description": "canada's major election",
+    "scene_description": "the speaker mentions that canada is having a major election soon, which is of historic proportions. the 78-day campaign is the longest on record since the 19th century."
+  },
+  {
+    "start_time": 187.829,
+    "end_time": 199.889,
+    "short_description": "local elections and prime minister",
+    "scene_description": "the speaker explains that canadians don't elect their prime minister directly, but rather through local elections. the outcome of these local races will determine who becomes canada's next leader."
+  },
+  {
+    "start_time": 202.59,
+    "end_time": 221.25,
+    "short_description": "three major parties in the election",
+    "scene_description": "the speaker discusses the three major parties in the election: the new democratic party (ndp), the liberal party, and the conservatives. the polls are split between them, making it a tight race."
+  }
+]

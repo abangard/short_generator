@@ -1,0 +1,38 @@
+[
+  {
+    "start_time": 4.97,
+    "end_time": 19.97,
+    "short_description": "introduction to noodle palooza battle",
+    "scene_description": "the host introduces the noodle palooza battle, and the contestants are excited to start. the host explains the rules, and the contestants are given 20 minutes to conceptualize and complete their noodle dishes."
+  },
+  {
+    "start_time": 105.5,
+    "end_time": 120.5,
+    "short_description": "chef rj's dish description",
+    "scene_description": "chef rj describes his dish, a pasta alla bolognese using meatballs, spicy chicken seasoning, and peanut brittle. he explains the sweet and spicy flavors in his dish and presents it to the judges."
+  },
+  {
+    "start_time": 320.79,
+    "end_time": 335.79,
+    "short_description": "entree round introduction",
+    "scene_description": "the host introduces the entree round, and the contestants open their baskets to find canned sardines, pea shoots, muscles, and freeze-dried stuffed olives. they have 30 minutes to create their noodle entrees."
+  },
+  {
+    "start_time": 491.17,
+    "end_time": 506.53,
+    "short_description": "introduction to the dessert round",
+    "scene_description": "chef aj is asked if he has what it takes to become the next chopped champion, and the dessert round is introduced with the mystery ingredients: pork floss, thai basil rock candy, and vietnamese egg coffee."
+  },
+  {
+    "start_time": 624.56,
+    "end_time": 640.35,
+    "short_description": "final preparations for the dessert round",
+    "scene_description": "chef aj is in the final stages of preparing his dessert dish, piping cream mixture into pasta to create paccheri cannoli, while the clock is running out and he needs to put everything together."
+  },
+  {
+    "start_time": 663.95,
+    "end_time": 676.16,
+    "short_description": "final judging and winner announcement",
+    "scene_description": "the final round is complete, and the judges are introduced to the dishes created by chef aj and chef bao bao. the winner of the competition is announced, and chef bao bao is crowned the chopped champion, winning $10,000."
+  }
+]

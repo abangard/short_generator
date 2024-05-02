@@ -1,0 +1,38 @@
+[
+  {
+    "start_time": 0.04,
+    "end_time": 15.04,
+    "short_description": "introduction to the competition",
+    "scene_description": "the scene introduces four competitors who think they have what it takes to be the chopped champion. they share their motivations and what the $110,000 prize money would mean to them."
+  },
+  {
+    "start_time": 42.559,
+    "end_time": 57.559,
+    "short_description": "rules and appetizer round introduction",
+    "scene_description": "the host explains the rules of the competition, including the three rounds and the mystery ingredients. the competitors open their baskets to find the ingredients for the appetizer round, including smoked oysters, starfruit, hikma, and pole calamari."
+  },
+  {
+    "start_time": 217.28,
+    "end_time": 232.28,
+    "short_description": "first round judging and elimination",
+    "scene_description": "the judges deliberate on the dishes from the appetizer round and decide to chop chef daniel. the remaining three chefs move on to the entree round, where they find new mystery ingredients in their baskets."
+  },
+  {
+    "start_time": 341.28,
+    "end_time": 356.28,
+    "short_description": "introduction to the competition",
+    "scene_description": "the video starts with chef jennifer introducing her dish, a rare seared shrimp with a confetti of quinoa, stami, and purple potatoes. the judges are introduced, and chef jason is asked to present his dish."
+  },
+  {
+    "start_time": 393.28,
+    "end_time": 408.28,
+    "short_description": "dessert round begins",
+    "scene_description": "the dessert round starts, and chef jennifer explains her plan to make a matah crusted pan purdue with bourch sauce, caramelized apples, and maple syrup glazed walnuts. the clock starts, and the chefs begin cooking."
+  },
+  {
+    "start_time": 586.48,
+    "end_time": 601.48,
+    "short_description": "winner announcement",
+    "scene_description": "the judges announce the winner, chef jennifer, who has been crowned the chopped champion and wins $10,000. chef kelvin is eliminated, and the video ends with congratulations and thanks from the winner."
+  }
+]

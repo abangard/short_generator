@@ -1,0 +1,38 @@
+[
+  {
+    "start_time": 10.64,
+    "end_time": 25.67,
+    "short_description": "chef's introduction",
+    "scene_description": "the chef introduces themselves, saying they're loud and their food is even louder. the host responds, and the chef's heart starts racing as they realize the competition is about to begin."
+  },
+  {
+    "start_time": 67.22,
+    "end_time": 82.22,
+    "short_description": "appetizer round",
+    "scene_description": "the timer starts, and the chefs begin preparing their appetizers. they're given a mystery basket with ingredients like fruity cereal, rock shrimp, and enoki mushrooms. the chefs scramble to create their dishes, with one chef making rock shrimp fritters and another making a fried shrimp chef with a cilantro and ginger glaze."
+  },
+  {
+    "start_time": 253.57,
+    "end_time": 268.57,
+    "short_description": "entree round",
+    "scene_description": "the chefs move on to the entree round, where they're given a new mystery basket with ingredients like elk tenderloin, turkish delight, and broccoli rob. the chefs quickly get to work, with one chef making seared elk tenderloin with potlikker and another making roasted elk with israeli couscous and broccoli rob pesto."
+  },
+  {
+    "start_time": 381.31,
+    "end_time": 396.35,
+    "short_description": "judges' feedback on chef andrew's dish",
+    "scene_description": "the judges are impressed with chef andrew's roasted elk tournedos broccoli rob pesto dish, commenting on the many components on the plate and how it feels like a triathlon."
+  },
+  {
+    "start_time": 440.56,
+    "end_time": 455.66,
+    "short_description": "chef andrew's dessert preparation",
+    "scene_description": "chef andrew is preparing his dessert, making honey corn bread with pistachio cream and a baloney brittle, and explaining his thought process behind making a sweet cornbread instead of the traditional savory one."
+  },
+  {
+    "start_time": 573.22,
+    "end_time": 582.58,
+    "short_description": "chef andrew wins the competition",
+    "scene_description": "the judges announce that chef andrew sargeant is the winner of the competition, congratulating him on his well-deserved win and thanking him for his hard work and dedication."
+  }
+]

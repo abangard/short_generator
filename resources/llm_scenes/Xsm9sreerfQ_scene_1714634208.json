@@ -1,0 +1,20 @@
+[
+  {
+    "start_time": 43.17,
+    "end_time": 63.37,
+    "short_description": "introduction to noodle palooza battle",
+    "scene_description": "the host welcomes the chefs to the noodle palooza battle, explaining the rules and ingredients. the chefs are given 20 minutes to conceptualize and complete their noodle dishes, and the clock starts now."
+  },
+  {
+    "start_time": 741.38,
+    "end_time": 755.83,
+    "short_description": "champion announcement",
+    "scene_description": "the host announces that chef bao bao is the chopped champion, winning $10,000, and congratulates her on using her noodles better than everybody else. the host also asks what her mom will think of her win."
+  },
+  {
+    "start_time": 491.17,
+    "end_time": 502.71,
+    "short_description": "aj's confidence",
+    "scene_description": "aj confidently responds to the host's question about becoming the next chopped champion, and the host reveals the ingredients for the dessert round, including pork floss, thai basil rock candy, and vietnamese egg coffee."
+  }
+]
