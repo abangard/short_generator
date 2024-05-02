@@ -1,0 +1,350 @@
+{'text': '[Music]', 'start': 0.83, 'duration': 5.29}
+{'text': 'Canada the country you think about so', 'start': 3.81, 'duration': 5.999}
+{'text': "little that's it end of sentence but", 'start': 6.12, 'duration': 5.67}
+{'text': "that's a shame because Canada is an", 'start': 9.809, 'duration': 3.421}
+{'text': "important country they're our largest", 'start': 11.79, 'duration': 3.419}
+{'text': 'trading partner and the u.s. Canadian', 'start': 13.23, 'duration': 3.65}
+{'text': 'border is the longest in the world', 'start': 15.209, 'duration': 3.961}
+{'text': 'stretching all the way from the coastal', 'start': 16.88, 'duration': 5.02}
+{'text': 'town of who gives a Alaska to the', 'start': 19.17, 'duration': 4.62}
+{'text': 'small fishing village of great whatever', 'start': 21.9, 'duration': 5.04}
+{'text': 'Maine and this makes it a little sad', 'start': 23.79, 'duration': 4.53}
+{'text': "that you probably don't know", 'start': 26.94, 'duration': 3.48}
+{'text': 'Canada is having a major election soon', 'start': 28.32, 'duration': 5.399}
+{'text': 'and by soon I mean tomorrow which is it', 'start': 30.42, 'duration': 6.0}
+{'text': "around 50 minutes so by the time we're", 'start': 33.719, 'duration': 4.201}
+{'text': "done you'll have waited until literally", 'start': 36.42, 'duration': 3.84}
+{'text': 'almost the last moment to learn the', 'start': 37.92, 'duration': 4.169}
+{'text': 'first thing about the Canadian election', 'start': 40.26, 'duration': 4.259}
+{'text': 'an election by the way of historic', 'start': 42.089, 'duration': 5.82}
+{'text': 'proportions today a 78 day campaign', 'start': 44.519, 'duration': 7.05}
+{'text': 'begins by any standards grueling and the', 'start': 47.909, 'duration': 6.68}
+{'text': 'longest on record since the 19th century', 'start': 51.569, 'duration': 6.99}
+{'text': 'okay okay thinking 78 days is a long', 'start': 54.589, 'duration': 7.36}
+{'text': "campaign is absolutely adorable it's", 'start': 58.559, 'duration': 5.131}
+{'text': 'like a woman who has only ever seen one', 'start': 61.949, 'duration': 3.691}
+{'text': "penis saying that's the longest one ever", 'start': 63.69, 'duration': 4.41}
+{'text': "there couldn't possibly be one longer", 'start': 65.64, 'duration': 5.519}
+{'text': "than that but but I have to say they've", 'start': 68.1, 'duration': 5.43}
+{'text': 'packed a lot into those 78 days', 'start': 71.159, 'duration': 4.231}
+{'text': 'particularly in the local races where', 'start': 73.53, 'duration': 3.54}
+{'text': 'one conservative candidate er Jerry', 'start': 75.39, 'duration': 3.78}
+{'text': 'Bance the owner of an appliance repair', 'start': 77.07, 'duration': 4.17}
+{'text': 'business withdrew for a truly', 'start': 79.17, 'duration': 4.92}
+{'text': 'breathtaking reason well mister bans had', 'start': 81.24, 'duration': 4.86}
+{'text': 'the misfortune of being caught up in a', 'start': 84.09, 'duration': 3.72}
+{'text': 'marketplace investigation into the', 'start': 86.1, 'duration': 3.659}
+{'text': 'ethics of appliance repair businesses', 'start': 87.81, 'duration': 5.129}
+{'text': 'who do house calls Jerry Bance responded', 'start': 89.759, 'duration': 4.89}
+{'text': 'to a service call at a house that was', 'start': 92.939, 'duration': 3.331}
+{'text': 'equipped with hidden cameras as part of', 'start': 94.649, 'duration': 3.241}
+{'text': 'the marketplace investigation and those', 'start': 96.27, 'duration': 4.68}
+{'text': 'cameras caught him urinating in a', 'start': 97.89, 'duration': 5.04}
+{'text': "homeowner's coffee month dumping the", 'start': 100.95, 'duration': 3.9}
+{'text': 'urine into a kitchen sink giving it a', 'start': 102.93, 'duration': 3.57}
+{'text': 'quick rinse and then putting it back', 'start': 104.85, 'duration': 6.509}
+{'text': "into the sink oh that's absolutely", 'start': 106.5, 'duration': 6.78}
+{'text': 'disgusting although any surprising', 'start': 111.359, 'duration': 3.841}
+{'text': 'Canada was so shocked about urine in a', 'start': 113.28, 'duration': 3.78}
+{'text': "mug considering that's exactly what the", 'start': 115.2, 'duration': 5.39}
+{'text': 'bat blue tastes like but amazingly', 'start': 117.06, 'duration': 5.339}
+{'text': "amazing that's not even the most", 'start': 120.59, 'duration': 4.0}
+{'text': "surprising scandal in Canada's local", 'start': 122.399, 'duration': 4.801}
+{'text': 'races an NDP candidate in Hamilton', 'start': 124.59, 'duration': 4.86}
+{'text': 'Ontario is apologizing for making a joke', 'start': 127.2, 'duration': 5.34}
+{'text': 'about a Nazi death camp in a 2008', 'start': 129.45, 'duration': 5.61}
+{'text': 'Facebook posting Alex Johnston sent a', 'start': 132.54, 'duration': 4.89}
+{'text': 'picture of an electrified fence post', 'start': 135.06, 'duration': 5.429}
+{'text': 'arsh wits look phallic according to the', 'start': 137.43, 'duration': 5.22}
+{'text': 'Hamilton Spectator Johnston says she did', 'start': 140.489, 'duration': 5.011}
+{'text': 'not know why our switch was until now', 'start': 142.65, 'duration': 6.75}
+{'text': 'wow that is parading two different kinds', 'start': 145.5, 'duration': 5.819}
+{'text': 'of ignorance not knowing what outwits is', 'start': 149.4, 'duration': 4.289}
+{'text': "and if she thinks that's fanuc not", 'start': 151.319, 'duration': 5.551}
+{'text': 'knowing what a penis looks like and this', 'start': 153.689, 'duration': 5.431}
+{'text': 'kind of makes you wonder who is running', 'start': 156.87, 'duration': 5.459}
+{'text': 'the schools up in Canada Johnston a', 'start': 159.12, 'duration': 4.77}
+{'text': 'social worker by training is the vice', 'start': 162.329, 'duration': 3.27}
+{'text': 'chair of the Hamilton Wentworth history', 'start': 163.89, 'duration': 4.799}
+{'text': 'school board and a school trustee yes', 'start': 165.599, 'duration': 6.181}
+{'text': 'she helped run a school board that would', 'start': 168.689, 'duration': 4.321}
+{'text': 'explain why their history curriculum', 'start': 171.78, 'duration': 4.47}
+{'text': 'includes the textbook poll in 1939 245', 'start': 173.01, 'duration': 6.349}
+{'text': 'things that look like dicks mainly I', 'start': 176.25, 'duration': 4.889}
+{'text': "know what you're thinking", 'start': 179.359, 'duration': 3.731}
+{'text': "who cares about Canada's least qualified", 'start': 181.139, 'duration': 3.781}
+{'text': 'school board member and mug dick the', 'start': 183.09, 'duration': 4.739}
+{'text': 'handyman these are just local elections', 'start': 184.92, 'duration': 5.399}
+{'text': "but the thing is Canadians don't elect", 'start': 187.829, 'duration': 4.141}
+{'text': "their prime minister directly that's", 'start': 190.319, 'duration': 4.801}
+{'text': 'decided by how many MPs each party gets', 'start': 191.97, 'duration': 5.969}
+{'text': 'so these local races are vital to who', 'start': 195.12, 'duration': 4.769}
+{'text': "becomes Canada's next leader and the", 'start': 197.939, 'duration': 4.651}
+{'text': 'polls are split between the three major', 'start': 199.889, 'duration': 5.22}
+{'text': 'parties the New Democratic Party or NDP', 'start': 202.59, 'duration': 5.07}
+{'text': 'the Liberal Party and the Conservatives', 'start': 205.109, 'duration': 4.621}
+{'text': "it's a good old-fashioned Canadian", 'start': 207.66, 'duration': 5.189}
+{'text': 'three-way which is also the sex act in', 'start': 209.73, 'duration': 4.589}
+{'text': 'which three people apologize to each', 'start': 212.849, 'duration': 5.191}
+{'text': 'other so hard they all climax the the', 'start': 214.319, 'duration': 6.931}
+{'text': 'socialist NDP began the election ahead', 'start': 218.04, 'duration': 4.77}
+{'text': "in the polls but they've since lost", 'start': 221.25, 'duration': 3.48}
+{'text': 'momentum partly because their Leader Tom', 'start': 222.81, 'duration': 3.66}
+{'text': 'Mulcair widely thought to be an', 'start': 224.73, 'duration': 4.02}
+{'text': 'excellent legislator has not been the', 'start': 226.47, 'duration': 4.32}
+{'text': 'most comfortable campaigner here is', 'start': 228.75, 'duration': 4.919}
+{'text': 'Mulcair trying out some slogans health', 'start': 230.79, 'duration': 9.77}
+{'text': 'care child care pharmacare Mulcair', 'start': 233.669, 'duration': 6.891}
+{'text': 'this is what change looks like oh you', 'start': 246.51, 'duration': 7.17}
+{'text': 'are not what change looks like we', 'start': 251.519, 'duration': 3.571}
+{'text': "understand you're talking about your", 'start': 253.68, 'duration': 3.72}
+{'text': 'policies but still change visually to', 'start': 255.09, 'duration': 3.929}
+{'text': 'not look like Paul Giamatti tunkel', 'start': 257.4, 'duration': 4.86}
+{'text': 'reading a rhyming dictionary as for the', 'start': 259.019, 'duration': 4.981}
+{'text': 'Liberal Party they are currently in the', 'start': 262.26, 'duration': 3.6}
+{'text': 'lead campaigning on a platform of tax', 'start': 264.0, 'duration': 3.63}
+{'text': 'breaks for the middle class and a plan', 'start': 265.86, 'duration': 3.51}
+{'text': 'to run a three-year deficit to boost the', 'start': 267.63, 'duration': 4.14}
+{'text': 'economy and ease the strain of austerity', 'start': 269.37, 'duration': 4.5}
+{'text': 'measures their leader is Justin Trudeau', 'start': 271.77, 'duration': 4.38}
+{'text': 'son or former prime minister Pierre', 'start': 273.87, 'duration': 4.59}
+{'text': 'Trudeau and legendary political figure', 'start': 276.15, 'duration': 3.93}
+{'text': 'in Canada although there are there is', 'start': 278.46, 'duration': 3.87}
+{'text': 'some concern that Justin Trudeau may not', 'start': 280.08, 'duration': 4.619}
+{'text': 'be quite as smart as his father as a', 'start': 282.33, 'duration': 4.2}
+{'text': "journalist who's covered him concedes", 'start': 284.699, 'duration': 4.171}
+{'text': 'his father was considered sort of', 'start': 286.53, 'duration': 5.16}
+{'text': 'intellectually brilliant smart does he', 'start': 288.87, 'duration': 8.25}
+{'text': 'have that kind of smarts no and himself', 'start': 291.69, 'duration': 10.62}
+{'text': 'but he he has I think other people have', 'start': 297.12, 'duration': 7.68}
+{'text': 'used this word too he has an emotional', 'start': 302.31, 'duration': 5.07}
+{'text': "intelligence that Pierre Trudeau didn't", 'start': 304.8, 'duration': 8.13}
+{'text': 'have out emotional intelligence that is', 'start': 307.38, 'duration': 6.96}
+{'text': 'the kind of made-up quality you might', 'start': 312.93, 'duration': 3.209}
+{'text': 'find on a report card from a Montessori', 'start': 314.34, 'duration': 4.859}
+{'text': 'School well done Satan you got a', 'start': 316.139, 'duration': 6.03}
+{'text': 'squirrel on emotional intelligence but', 'start': 319.199, 'duration': 4.5}
+{'text': 'on actual intelligence you got a', 'start': 322.169, 'duration': 4.321}
+{'text': "frowning walrus which is an F that's an", 'start': 323.699, 'duration': 5.391}
+{'text': "F Zaidan let's make that walrus smile", 'start': 326.49, 'duration': 5.88}
+{'text': 'now now while growing up in the public', 'start': 329.09, 'duration': 4.99}
+{'text': 'eye has given Justin Trudeau name', 'start': 332.37, 'duration': 2.34}
+{'text': 'recognition', 'start': 334.08, 'duration': 2.55}
+{'text': 'it also has had its drawbacks for', 'start': 334.71, 'duration': 3.3}
+{'text': 'instance if you do a google image search', 'start': 336.63, 'duration': 4.05}
+{'text': 'on him you can find every poor fashion', 'start': 338.01, 'duration': 5.43}
+{'text': "choice that he's ever made from a 90's", 'start': 340.68, 'duration': 5.22}
+{'text': 'boy band member one week before entering', 'start': 343.44, 'duration': 5.31}
+{'text': 'rehab to an LL Bean sweater model who', 'start': 345.9, 'duration': 5.519}
+{'text': 'just underwent a lobotomy - Johnny', 'start': 348.75, 'duration': 5.909}
+{'text': "Depp's evil twin and it's not just", 'start': 351.419, 'duration': 5.28}
+{'text': "photos there's also embarrassing videos", 'start': 354.659, 'duration': 4.081}
+{'text': 'out there like this one in which he', 'start': 356.699, 'duration': 3.631}
+{'text': 'explains his party trick of pretending', 'start': 358.74, 'duration': 5.85}
+{'text': 'to fall down a flight of stairs let me', 'start': 360.33, 'duration': 6.0}
+{'text': 'show you how it normally works I put a', 'start': 364.59, 'duration': 3.84}
+{'text': "person here and I'm passing so it's like", 'start': 366.33, 'duration': 5.03}
+{'text': 'hey how are you', 'start': 368.43, 'duration': 2.93}
+{'text': 'what look look no one is saying that', 'start': 375.87, 'duration': 6.97}
+{'text': 'that is behaviour worthy of a head of', 'start': 380.68, 'duration': 3.9}
+{'text': 'states but you cannot deny that it is', 'start': 382.84, 'duration': 3.75}
+{'text': 'somewhat satisfying to watch a soul', 'start': 384.58, 'duration': 4.11}
+{'text': 'patched man named Justin with a French', 'start': 386.59, 'duration': 4.25}
+{'text': 'accent just fall down some stairs', 'start': 388.69, 'duration': 4.64}
+{'text': "something there that's good about it and", 'start': 390.84, 'duration': 4.87}
+{'text': "Trudeau's opponents have used his", 'start': 393.33, 'duration': 4.15}
+{'text': 'lightweight reputation against him by', 'start': 395.71, 'duration': 4.41}
+{'text': 'running ads like these is Justin ready', 'start': 397.48, 'duration': 4.8}
+{'text': 'Justin thinks budgets balance themselves', 'start': 400.12, 'duration': 4.32}
+{'text': "but Justin hasn't thought that through", 'start': 402.28, 'duration': 3.78}
+{'text': "Justin doesn't understand the", 'start': 404.44, 'duration': 6.05}
+{'text': "consequences Justin he's just not ready", 'start': 406.06, 'duration': 7.08}
+{'text': 'now repeatedly calling him Justin is', 'start': 410.49, 'duration': 4.57}
+{'text': 'actually very clever because the more', 'start': 413.14, 'duration': 3.75}
+{'text': 'you say that name the less ready for', 'start': 415.06, 'duration': 4.71}
+{'text': "office he sounds the name Justin doesn't", 'start': 416.89, 'duration': 4.95}
+{'text': 'convey leadership so much as it conveys', 'start': 419.77, 'duration': 3.96}
+{'text': 'an unwillingness to sit still at the', 'start': 421.84, 'duration': 4.71}
+{'text': 'pediatricians office or ownership of a', 'start': 423.73, 'duration': 4.56}
+{'text': 'system of a down tattoo halfway through', 'start': 426.55, 'duration': 3.87}
+{'text': 'a painful laser removal process those', 'start': 428.29, 'duration': 4.08}
+{'text': 'are the two types of Justin that exist', 'start': 430.42, 'duration': 6.09}
+{'text': 'and just those two but despite these', 'start': 432.37, 'duration': 6.54}
+{'text': 'concerns polls show that Justin is', 'start': 436.51, 'duration': 4.5}
+{'text': 'currently leading incumbent Prime', 'start': 438.91, 'duration': 4.77}
+{'text': 'Minister Stephen Harper a man who thanks', 'start': 441.01, 'duration': 4.29}
+{'text': "to Canada's lack of tone limits has", 'start': 443.68, 'duration': 3.48}
+{'text': 'already been in office for almost 10', 'start': 445.3, 'duration': 4.44}
+{'text': 'years and while Trudeau has been painted', 'start': 447.16, 'duration': 4.8}
+{'text': 'as a charismatic pretty boy no one has', 'start': 449.74, 'duration': 4.62}
+{'text': 'ever said either of those things about', 'start': 451.96, 'duration': 5.13}
+{'text': 'Stephen Harper just watch him try to', 'start': 454.36, 'duration': 5.25}
+{'text': 'appear relatable something you might not', 'start': 457.09, 'duration': 4.8}
+{'text': 'know about me is that I love movies and', 'start': 459.61, 'duration': 5.73}
+{'text': 'TV shows one of my all-time favorites is', 'start': 461.89, 'duration': 6.21}
+{'text': "Breaking Bad it's even available on some", 'start': 465.34, 'duration': 4.44}
+{'text': "online streaming services if you've", 'start': 468.1, 'duration': 4.13}
+{'text': 'never seen', 'start': 469.78, 'duration': 2.45}
+{'text': "unlove movies and TV shows isn't a", 'start': 474.99, 'duration': 4.709}
+{'text': "statement that wins over voters it's", 'start': 477.99, 'duration': 3.75}
+{'text': 'what an alien in disguise as a human', 'start': 479.699, 'duration': 4.261}
+{'text': 'tells you all trying to fit in at a', 'start': 481.74, 'duration': 7.17}
+{'text': "dinner party but but don't don't be", 'start': 483.96, 'duration': 6.81}
+{'text': 'deceived by his bland exterior where', 'start': 488.91, 'duration': 3.87}
+{'text': 'there is banality there is evil', 'start': 490.77, 'duration': 3.869}
+{'text': "for instance Harper's government has", 'start': 492.78, 'duration': 3.75}
+{'text': "passed numerous laws weakening Canada's", 'start': 494.639, 'duration': 3.451}
+{'text': "environmental protections and they've", 'start': 496.53, 'duration': 2.97}
+{'text': 'scaled back health care for some', 'start': 498.09, 'duration': 3.69}
+{'text': 'refugees which a federal court called', 'start': 499.5, 'duration': 5.4}
+{'text': 'cruel and unusual and Harper himself has', 'start': 501.78, 'duration': 5.4}
+{'text': 'taken an extremely strong position on', 'start': 504.9, 'duration': 2.94}
+{'text': 'marijuana', 'start': 507.18, 'duration': 2.88}
+{'text': "there's just overwhelming and growing", 'start': 507.84, 'duration': 3.96}
+{'text': 'scientific and medical evidence about', 'start': 510.06, 'duration': 4.589}
+{'text': 'the bad long-term effects of marijuana', 'start': 511.8, 'duration': 4.64}
+{'text': "we've spent a couple of generations", 'start': 514.649, 'duration': 4.861}
+{'text': 'trying to reduce the usage of tobacco in', 'start': 516.44, 'duration': 5.86}
+{'text': 'Canada with a lot of success tobacco is', 'start': 519.51, 'duration': 4.17}
+{'text': 'a product that does a lot of damage', 'start': 522.3, 'duration': 5.94}
+{'text': 'marijuana is infinitely worse are you', 'start': 523.68, 'duration': 9.599}
+{'text': 'high is not worse than tobacco the only', 'start': 528.24, 'duration': 6.659}
+{'text': "context in which that's true is", 'start': 533.279, 'duration': 4.591}
+{'text': 'aesthetics look at Paul Newman okay now', 'start': 534.899, 'duration': 5.06}
+{'text': 'look at whatever the this is', 'start': 537.87, 'duration': 5.13}
+{'text': 'marijuana is infinitely worse in that', 'start': 539.959, 'duration': 6.371}
+{'text': 'context and that context alone but', 'start': 543.0, 'duration': 5.58}
+{'text': "Harper's ugliest tendency is perhaps", 'start': 546.33, 'duration': 4.62}
+{'text': "he's pandering to Islamophobes earlier", 'start': 548.58, 'duration': 3.81}
+{'text': 'this year his government passed a law', 'start': 550.95, 'duration': 3.75}
+{'text': 'called the zero tolerance for barbaric', 'start': 552.39, 'duration': 4.62}
+{'text': 'cultural practices Act stiffening', 'start': 554.7, 'duration': 3.96}
+{'text': 'penalties for things like honor killing', 'start': 557.01, 'duration': 3.9}
+{'text': 'and polygamy despite the fact both those', 'start': 558.66, 'duration': 4.38}
+{'text': 'things were already illegal in Canada', 'start': 560.91, 'duration': 4.26}
+{'text': 'and then a few weeks ago they suggested', 'start': 563.04, 'duration': 4.35}
+{'text': 'a barbaric cultural practices hotline', 'start': 565.17, 'duration': 5.07}
+{'text': 'despite the fact nine-one-one continues', 'start': 567.39, 'duration': 6.12}
+{'text': 'to exist in Canada and this is on top of', 'start': 570.24, 'duration': 4.86}
+{'text': 'the fact that they want banned women', 'start': 573.51, 'duration': 3.81}
+{'text': 'from wearing the niqab while taking the', 'start': 575.1, 'duration': 4.17}
+{'text': 'oath of citizenship a decision that', 'start': 577.32, 'duration': 3.36}
+{'text': 'harper justified to join a', 'start': 579.27, 'duration': 3.72}
+{'text': 'french-language debate like this you', 'start': 580.68, 'duration': 4.5}
+{'text': "know he'd never tell my daughter that a", 'start': 582.99, 'duration': 3.839}
+{'text': 'woman should cover her face because', 'start': 585.18, 'duration': 3.68}
+{'text': "she's a woman I would never say that", 'start': 586.829, 'duration': 3.271}
+{'text': 'okay', 'start': 588.86, 'duration': 3.49}
+{'text': "for a start if Stephen Harper's daughter", 'start': 590.1, 'duration': 3.87}
+{'text': "is covering her face it's probably", 'start': 592.35, 'duration': 3.45}
+{'text': 'because she understandably does not want', 'start': 593.97, 'duration': 3.6}
+{'text': 'to be seen in public with Stephen', 'start': 595.8, 'duration': 4.77}
+{'text': " Harper but but but this isn't a", 'start': 597.57, 'duration': 5.04}
+{'text': "debate about his parenting it's a debate", 'start': 600.57, 'duration': 4.019}
+{'text': 'about forbidding one particular', 'start': 602.61, 'duration': 3.99}
+{'text': 'religious practice and to hear from one', 'start': 604.589, 'duration': 3.721}
+{'text': 'of the women affected by the ban', 'start': 606.6, 'duration': 4.56}
+{'text': 'she did not appreciate it the Canadians', 'start': 608.31, 'duration': 5.46}
+{'text': "why it's so important to keep your veil", 'start': 611.16, 'duration': 7.38}
+{'text': 'on take me off because they can ad I I', 'start': 613.77, 'duration': 7.53}
+{'text': 'actually chose this country for the', 'start': 618.54, 'duration': 5.85}
+{'text': 'reason is it provides me with the', 'start': 621.3, 'duration': 5.4}
+{'text': 'freedom of my to practice on my religion', 'start': 624.39, 'duration': 4.83}
+{'text': "as well and Canada's federal courts", 'start': 626.7, 'duration': 3.78}
+{'text': 'actually agreed with her because she', 'start': 629.22, 'duration': 3.42}
+{'text': "sued Harper's government and won", 'start': 630.48, 'duration': 3.99}
+{'text': 'presumably arguing that if Harper was', 'start': 632.64, 'duration': 3.69}
+{'text': 'happy to let Canadians interact with', 'start': 634.47, 'duration': 3.93}
+{'text': 'their government dressed like this she', 'start': 636.33, 'duration': 4.17}
+{'text': 'should be allowed to wear whatever the', 'start': 638.4, 'duration': 9.33}
+{'text': ' she wants were not enough to make', 'start': 640.5, 'duration': 9.51}
+{'text': "you hate Stephen Harper there's also the", 'start': 647.73, 'duration': 4.74}
+{'text': 'fact that he has a band a terrible', 'start': 650.01, 'duration': 5.18}
+{'text': 'terrible band', 'start': 652.47, 'duration': 4.04}
+{'text': '[Applause]', 'start': 655.19, 'duration': 9.52}
+{'text': '[Music]', 'start': 656.51, 'duration': 11.48}
+{'text': 'that is Stephen Harper murdering Sweet', 'start': 664.71, 'duration': 6.13}
+{'text': 'Caroline with his actual band that he', 'start': 667.99, 'duration': 5.73}
+{'text': 'chose to call the van cats and a parent', 'start': 670.84, 'duration': 5.97}
+{'text': 'play on Van caca to represent 24 Sussex', 'start': 673.72, 'duration': 4.77}
+{'text': "the name of the Prime Minister's", 'start': 676.81, 'duration': 3.66}
+{'text': "residence so to recap there Harper's", 'start': 678.49, 'duration': 4.35}
+{'text': "band's name is not just a shitty pun", 'start': 680.47, 'duration': 5.01}
+{'text': "it's a shitty French pun on the fact", 'start': 682.84, 'duration': 5.13}
+{'text': "that he's Prime Minister of Canada that", 'start': 685.48, 'duration': 4.29}
+{'text': 'is the least rock-and-roll thing', 'start': 687.97, 'duration': 6.42}
+{'text': 'imaginable until until you see this', 'start': 689.77, 'duration': 6.75}
+{'text': 'photo of Stephen Harper with the lead', 'start': 694.39, 'duration': 5.91}
+{'text': 'singer of Nickelback and look look I', 'start': 696.52, 'duration': 6.9}
+{'text': "know it's hard for Americans to care", 'start': 700.3, 'duration': 4.85}
+{'text': 'about this but think of it this way', 'start': 703.42, 'duration': 4.29}
+{'text': 'picture your next-door neighbor you', 'start': 705.15, 'duration': 4.21}
+{'text': 'might not be great friends with her but', 'start': 707.71, 'duration': 3.81}
+{'text': "you'd be sad if she started dating a", 'start': 709.36, 'duration': 5.46}
+{'text': 'complete and utter well Canada', 'start': 711.52, 'duration': 5.1}
+{'text': "is America's next-door neighbor and", 'start': 714.82, 'duration': 4.65}
+{'text': 'Stephen Harper is her boyfriend', 'start': 716.62, 'duration': 5.04}
+{'text': "you know the one she won't split up with", 'start': 719.47, 'duration': 3.57}
+{'text': 'despite the fact he tells her what to', 'start': 721.66, 'duration': 3.57}
+{'text': 'wear and makes her listen to his shitty', 'start': 723.04, 'duration': 5.79}
+{'text': 'shitty band and and I would love to tell', 'start': 725.23, 'duration': 5.46}
+{'text': 'the people of Canada right now to vote', 'start': 728.83, 'duration': 3.3}
+{'text': 'Stephen Harper out of office', 'start': 730.69, 'duration': 3.78}
+{'text': "unfortunately and this is amazing it's", 'start': 732.13, 'duration': 4.86}
+{'text': 'against Canadian law specifically', 'start': 734.47, 'duration': 5.19}
+{'text': 'section 3 3 1 of the Canada Elections', 'start': 736.99, 'duration': 5.22}
+{'text': 'Act which states no person who does not', 'start': 739.66, 'duration': 5.13}
+{'text': 'reside in Canada shall induce electors', 'start': 742.21, 'duration': 5.31}
+{'text': 'to vote or refrain from voting for a', 'start': 744.79, 'duration': 4.47}
+{'text': 'particular candidate and apparently', 'start': 747.52, 'duration': 3.6}
+{'text': 'anyone found guilty of doing that could', 'start': 749.26, 'duration': 4.56}
+{'text': 'be fined up to $5,000 given a six-month', 'start': 751.12, 'duration': 6.75}
+{'text': 'jail term or both that is a ridiculous', 'start': 753.82, 'duration': 6.33}
+{'text': "law and I guess what you're saying", 'start': 757.87, 'duration': 7.77}
+{'text': 'Canada is you want to dance is that what', 'start': 760.15, 'duration': 7.91}
+{'text': "you're saying", 'start': 765.64, 'duration': 2.42}
+{'text': "bring your best moves because it's", 'start': 769.85, 'duration': 4.53}
+{'text': "nearly midnight and Johnny's got his", 'start': 772.49, 'duration': 5.25}
+{'text': "dancing shoes on you think I'm scared of", 'start': 774.38, 'duration': 5.43}
+{'text': 'six months in Canadian prison', 'start': 777.74, 'duration': 4.65}
+{'text': "what's that six months of living in", 'start': 779.81, 'duration': 6.0}
+{'text': "Ottawa yes that's right keep yourself", 'start': 782.39, 'duration': 5.91}
+{'text': 'warm with that Ottawa burn and as for', 'start': 785.81, 'duration': 6.27}
+{'text': "you $5,000 fine I simply can't imagine a", 'start': 788.3, 'duration': 6.66}
+{'text': 'better way to spend 5,000 Canadian', 'start': 792.08, 'duration': 5.79}
+{'text': 'dollars but if telling you not to vote', 'start': 794.96, 'duration': 4.74}
+{'text': 'for Stephen Harper is going to cost me', 'start': 797.87, 'duration': 4.47}
+{'text': "$5,000 I'm gonna get my money's worth", 'start': 799.7, 'duration': 4.83}
+{'text': "and I'm gonna do it in the most Canadian", 'start': 802.34, 'duration': 5.15}
+{'text': 'way possible so please come with me', 'start': 804.53, 'duration': 5.73}
+{'text': "because I'm going to tell you not to", 'start': 807.49, 'duration': 4.72}
+{'text': 'vote for Stephen Harper alongside this', 'start': 810.26, 'duration': 4.71}
+{'text': 'beaver plays Sweet Caroline on the', 'start': 812.21, 'duration': 5.43}
+{'text': 'keyboards and this loose receiving a', 'start': 814.97, 'duration': 3.72}
+{'text': 'colonoscopy', 'start': 817.64, 'duration': 3.42}
+{'text': "under Canada's fantastic single-payer", 'start': 818.69, 'duration': 5.07}
+{'text': 'health care system and finally with the', 'start': 821.06, 'duration': 5.34}
+{'text': "help of one of Canada's finest sons Mike", 'start': 823.76, 'duration': 6.07}
+{'text': 'Myers dresses of mountain', 'start': 826.4, 'duration': 13.63}
+{'text': '[Applause]', 'start': 829.83, 'duration': 13.48}
+{'text': 'full attention gonna go', 'start': 840.03, 'duration': 4.89}
+{'text': 'Oh', 'start': 843.31, 'duration': 9.92}
+{'text': '[Applause]', 'start': 844.92, 'duration': 8.31}
+{'text': 'thank you thank you so much for doing', 'start': 853.32, 'duration': 4.72}
+{'text': "this is there anything you'd like to say", 'start': 856.12, 'duration': 4.86}
+{'text': "yes there's lots I'd like to say I love", 'start': 858.04, 'duration': 5.67}
+{'text': 'Canada but the fact that it has a law', 'start': 860.98, 'duration': 4.95}
+{'text': 'banning outsiders from telling Canadians', 'start': 863.71, 'duration': 4.89}
+{'text': 'how to vote is one of the least Canadian', 'start': 865.93, 'duration': 7.08}
+{'text': "things possible sure oh and don't vote", 'start': 868.6, 'duration': 10.59}
+{'text': 'for Stephen Harper exactly Stephen', 'start': 873.01, 'duration': 7.92}
+{'text': "Harper doesn't care about black people", 'start': 879.19, 'duration': 8.27}
+{'text': 'Oh God not again so sorry', 'start': 880.93, 'duration': 9.36}
+{'text': 'what I meant to say was Stephen Harper', 'start': 887.46, 'duration': 5.62}
+{'text': "doesn't care about Muslim people totally", 'start': 890.29, 'duration': 5.19}
+{'text': 'fair oh yeah there you go I think he', 'start': 893.08, 'duration': 5.19}
+{'text': 'made that pretty clear so please do not', 'start': 895.48, 'duration': 5.16}
+{'text': "vote for Stephen Harper don't do it", 'start': 898.27, 'duration': 5.36}
+{'text': "shall we no yeah look at this let's", 'start': 900.64, 'duration': 5.43}
+{'text': '5,000', 'start': 903.63, 'duration': 13.15}
+{'text': '[Applause]', 'start': 906.07, 'duration': 10.71}

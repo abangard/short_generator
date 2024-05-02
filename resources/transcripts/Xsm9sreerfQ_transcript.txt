@@ -1,0 +1,205 @@
+{'text': 'Cowabunga, Ted.', 'start': 0.38, 'duration': 1.06}
+{'text': 'Cowabunga, indeed.', 'start': 1.44, 'duration': 2.42}
+{'text': 'Sorry, sir. Buckle up for our noodle palooza\nbattle.', 'start': 4.97, 'duration': 2.91}
+{'text': 'I am the noodle queen, so pass me my crown.', 'start': 9.56, 'duration': 3.36}
+{'text': 'She does not play. No, No, she does not.', 'start': 13.19, 'duration': 1.95}
+{'text': 'Here as a.', 'start': 15.23, 'duration': 1.05}
+{'text': 'Boss. I love this.', 'start': 16.28, 'duration': 1.29}
+{'text': 'Oh, yeah.', 'start': 17.57, 'duration': 0.84}
+{'text': 'So many things going in my head right now.', 'start': 18.41, 'duration': 1.65}
+{'text': 'Everybody loves noodles.', 'start': 20.09, 'duration': 1.59}
+{'text': 'I mean, I own a noodle shop.', 'start': 21.68, 'duration': 1.29}
+{'text': 'I studied.', 'start': 22.97, 'duration': 0.54}
+{'text': "In Italy. I'm coming for the win.", 'start': 23.51, 'duration': 1.77}
+{'text': 'Boom!', 'start': 25.28, 'duration': 0.57}
+{'text': "Born to noodle. He's made a noodle dish from\nscratch.", 'start': 26.27, 'duration': 2.13}
+{'text': 'That is a huge risk.', 'start': 28.97, 'duration': 1.2}
+{'text': 'Five minutes to get this done.', 'start': 30.2, 'duration': 1.65}
+{'text': 'Oh, no.', 'start': 31.85, 'duration': 1.8}
+{'text': 'Welcome, chefs.', 'start': 37.44, 'duration': 1.2}
+{'text': 'That Cowabunga indeed.', 'start': 40.34, 'duration': 2.68}
+{'text': 'Buckle up, because you are here for our\nnoodle palooza battle.', 'start': 43.17, 'duration': 4.07}
+{'text': "Woo hoo! Let's see those appetizer\ningredients.", 'start': 47.25, 'duration': 1.71}
+{'text': "Oh, and you've got a bucket of meatballs,\nPersian cucumbers, hot chicken seasoning and", 'start': 51.79, 'duration': 6.69}
+{'text': 'peanut brittle.', 'start': 58.48, 'duration': 1.29}
+{'text': '20 minutes to conceptualize and complete\nyour noodle dishes.', 'start': 59.8, 'duration': 3.45}
+{'text': 'Clock starts now.', 'start': 63.37, 'duration': 1.17}
+{'text': 'Chef Bao Bao. Yes, chef.', 'start': 66.06, 'duration': 1.9}
+{'text': 'What type of pasta or noodle are you using,\nChef?', 'start': 67.98, 'duration': 2.7}
+{'text': 'I am using the ramen noodle today.', 'start': 71.13, 'duration': 2.31}
+{'text': "I'm doing some ramen.", 'start': 73.89, 'duration': 1.14}
+{'text': 'Noodle patties with a meatball and also\nteriyaki sauce that I.', 'start': 75.03, 'duration': 4.9}
+{'text': 'That I use from the peanut blister.', 'start': 79.95, 'duration': 3.81}
+{'text': "I'm going to make a spin on a pad.", 'start': 83.94, 'duration': 1.68}
+{'text': 'Thai. Pad Thai has sweet, spicy and sour\ncomponents.', 'start': 85.65, 'duration': 5.49}
+{'text': "So I'm going to quick pickle these Persian\ncucumbers.", 'start': 92.7, 'duration': 1.68}
+{'text': 'And that usually has crushed peanuts on top.', 'start': 96.01, 'duration': 2.64}
+{'text': "So I'm roasting some cashews with some of\nthe hot chicken seasoning.", 'start': 99.16, 'duration': 3.51}
+{'text': "I'm going to keep things simple.", 'start': 103.93, 'duration': 1.53}
+{'text': 'Making a nice pasta alla bolognese using\nthose meatballs.', 'start': 105.5, 'duration': 3.74}
+{'text': "I've got my spicy chicken seasoning in here\nand a little bit of that peanut brittle.", 'start': 109.6, 'duration': 3.42}
+{'text': 'So it got sweet and spicy action going on\nand a nice little fresh cucumber salad on', 'start': 113.02, 'duration': 4.41}
+{'text': 'top. I love all of this.', 'start': 117.43, 'duration': 1.53}
+{'text': 'All right. I am making bucatini alla Norma\nwith a cucumber basil puree.', 'start': 119.32, 'duration': 5.4}
+{'text': 'Norma is a roasted eggplant sauce that is\ntomato based.', 'start': 125.38, 'duration': 4.14}
+{'text': 'I saute the meatball with the chicken\nseasoning just to give it a nice sear.', 'start': 131.14, 'duration': 5.49}
+{'text': "I'm taking my meatballs in peanut butter,\nmirin, sambal and soy sauce.", 'start': 137.77, 'duration': 5.01}
+{'text': 'I decided to use the hot chicken seasoning in\nmy meatball sauce.', 'start': 144.18, 'duration': 3.45}
+{'text': "Crumble. Crumble. Let's go.", 'start': 148.68, 'duration': 1.77}
+{'text': "I'm always thinking that a pasta should have\nbread.", 'start': 150.72, 'duration': 3.27}
+{'text': "So I take the peanut brittle and I'm making\na glaze to brush onto the bread to get it", 'start': 154.71, 'duration': 4.53}
+{'text': "toasted. I'm making my cucumber salad with\nfresh mint cucumber, olive oil and a dash of", 'start': 159.24, 'duration': 9.19}
+{'text': 'the peanut brittle.', 'start': 168.43, 'duration': 0.72}
+{'text': 'Get it all on the plate, chef.', 'start': 171.14, 'duration': 1.44}
+{'text': 'The judges are watching you, Chefs.', 'start': 172.76, 'duration': 2.37}
+{'text': 'Ten, nine, eight, seven, six, five, four,\nthree, two, one.', 'start': 175.4, 'duration': 9.63}
+{'text': "Time's up. Please step back.", 'start': 186.2, 'duration': 1.83}
+{'text': 'Sue. Please tell us about your dish.', 'start': 191.88, 'duration': 1.82}
+{'text': 'So I made a pad Thai inspired noodle dish.', 'start': 193.73, 'duration': 3.54}
+{'text': 'Next up, Chef Evan.', 'start': 201.62, 'duration': 1.4}
+{'text': 'So what you have in front of you, the\ninspired bucatini alla Norma with a hot', 'start': 203.03, 'duration': 5.34}
+{'text': 'chicken seasoning, meatball sauce, cucumber,\nbasil puree.', 'start': 208.37, 'duration': 3.69}
+{'text': 'And, of course, what is a pasta without\nbread to soup up all that sauce and', 'start': 212.36, 'duration': 5.37}
+{'text': 'deliciousness?', 'start': 217.73, 'duration': 0.93}
+{'text': 'Next up, chef RJ.', 'start': 219.5, 'duration': 1.05}
+{'text': 'So I made.', 'start': 221.06, 'duration': 0.96}
+{'text': 'Capricci alla bolognese.', 'start': 222.02, 'duration': 1.56}
+{'text': 'Chef, What would it mean to you to win this\ncompetition?', 'start': 227.22, 'duration': 2.19}
+{'text': "I'm from Morristown, New Jersey, and I'd love\nto make my hometown proud.", 'start': 230.22, 'duration': 3.69}
+{'text': 'I graduated from Morristown High School.', 'start': 234.06, 'duration': 2.01}
+{'text': 'Now, as a business owner, I go back to do\nseminars with the students, teach them how to', 'start': 236.1, 'duration': 3.69}
+{'text': "make pasta, speak about my experiences in\nItaly, and I've become a bit of a role model", 'start': 239.79, 'duration': 5.67}
+{'text': "for the next generation that's coming up.", 'start': 245.46, 'duration': 1.62}
+{'text': 'And so this would just be a further\ninspiration to the youth.', 'start': 247.08, 'duration': 3.27}
+{'text': "Good for you. That's great, Chef Balbo.", 'start': 250.89, 'duration': 1.92}
+{'text': 'What do we have.', 'start': 252.84, 'duration': 0.98}
+{'text': 'I make for you Today is a stuffed ramen with\nthe meatballs.', 'start': 253.86, 'duration': 4.17}
+{'text': 'And the sauce that I made is the peanut\nteriyaki grace.', 'start': 258.03, 'duration': 5.34}
+{'text': 'And also with the Persians.', 'start': 263.37, 'duration': 2.37}
+{'text': 'Cucumber, relish.', 'start': 265.74, 'duration': 1.08}
+{'text': 'So whose dish is on the chopping block?', 'start': 270.33, 'duration': 3.69}
+{'text': "Chef. Evan, you've been chopped.", 'start': 290.39, 'duration': 2.04}
+{'text': 'Judges. Chef.', 'start': 292.52, 'duration': 1.83}
+{'text': 'Evan, your use of the bucatini was really\ngreat, and the cook was perfect on it.', 'start': 294.35, 'duration': 5.07}
+{'text': 'However, the eggplant was undercooked and\nthe peanut brittle on the toast.', 'start': 299.51, 'duration': 4.86}
+{'text': 'Red. A little sweet.', 'start': 304.4, 'duration': 1.05}
+{'text': 'And so we had to chop you.', 'start': 305.45, 'duration': 1.71}
+{'text': 'Thank you, chefs. Chef Bilbao.', 'start': 308.11, 'duration': 1.41}
+{'text': 'Chef AJ, Chef Sue.', 'start': 309.61, 'duration': 1.38}
+{'text': 'You have made it to round two.', 'start': 311.02, 'duration': 2.13}
+{'text': "All right, let's see your hands on these\nentree baskets.", 'start': 313.39, 'duration': 2.91}
+{'text': 'And open them up.', 'start': 320.79, 'duration': 1.02}
+{'text': 'Whoa.', 'start': 323.92, 'duration': 0.52}
+{'text': "And you'll be making noodle entrees with\ncanned sardines.", 'start': 326.41, 'duration': 3.72}
+{'text': 'Pea shoots. Muscles and freeze dried stuffed\nolives.', 'start': 330.16, 'duration': 4.56}
+{'text': '30 minutes on the clock for this one.', 'start': 335.53, 'duration': 1.77}
+{'text': 'Time starts now. Round to do this big round\nchest.', 'start': 339.37, 'duration': 4.83}
+{'text': 'Big round by making surf and turf fresh\nnoodle roll with sweet and sour sauce and Sue', 'start': 344.59, 'duration': 7.65}
+{'text': "are definitely a tough competitor, but I am\na noodle queen, so I'm not afraid of them.", 'start': 352.27, 'duration': 5.28}
+{'text': "I'm making sardine filled ravioli and quick\npickled mussels for my ravioli filling.", 'start': 359.65, 'duration': 6.48}
+{'text': "I'm cutting up some sardines and mixing it\nwith ricotta.", 'start': 366.13, 'duration': 2.67}
+{'text': "I'm going to build a white wine sauce.", 'start': 371.37, 'duration': 2.37}
+{'text': 'Amazing.', 'start': 373.77, 'duration': 0.81}
+{'text': 'I feel like my favorite part of mussels is\nthe broth.', 'start': 375.75, 'duration': 2.43}
+{'text': 'Like the briny broth that it brings.', 'start': 378.27, 'duration': 2.43}
+{'text': "Like, that's what I want to see.", 'start': 380.7, 'duration': 1.56}
+{'text': 'So next I get started on my filling.', 'start': 383.16, 'duration': 2.42}
+{'text': 'I sauteed garlic and chorizo, chopped olives\nand sardines.', 'start': 385.59, 'duration': 6.6}
+{'text': 'The texture of these fragile olives lends\nitself to a.', 'start': 392.67, 'duration': 3.42}
+{'text': "So I'm going to press them through the shin\nand dust, my pasta sheets, and then I take", 'start': 396.86, 'duration': 6.0}
+{'text': 'the pea shoots. Toss them in olive oil and\nlemon juice.', 'start': 402.86, 'duration': 2.8}
+{'text': 'I just have to push through and get\neverything on this plate.', 'start': 405.68, 'duration': 2.61}
+{'text': 'All four ingredients.', 'start': 410.49, 'duration': 1.11}
+{'text': 'All right.', 'start': 414.4, 'duration': 0.24}
+{'text': 'You got this, chefs.', 'start': 414.64, 'duration': 1.02}
+{'text': 'Get it done.', 'start': 415.69, 'duration': 0.69}
+{'text': 'Get it done. Ten, nine, eight, seven, six,\nfive.', 'start': 416.38, 'duration': 6.15}
+{'text': 'Three, two, one.', 'start': 424.57, 'duration': 2.7}
+{'text': 'Pronto. These guys are pros.', 'start': 428.49, 'duration': 4.62}
+{'text': 'I made for you.', 'start': 433.53, 'duration': 1.38}
+{'text': 'Surf and turf, steam, fresh noodle roll in,\nSweet and sour sauce.', 'start': 435.12, 'duration': 5.4}
+{'text': 'So today I did a play on linguine.', 'start': 445.71, 'duration': 2.16}
+{'text': 'Al Nero di Seppia.', 'start': 447.87, 'duration': 0.93}
+{'text': 'Chefs for you. I have a sardine and ricotta\nstuffed ravioli with some quick pickled', 'start': 456.15, 'duration': 6.12}
+{'text': 'mussels.', 'start': 462.27, 'duration': 0.57}
+{'text': 'We appreciate the good work you all did in\nthat round.', 'start': 468.57, 'duration': 3.09}
+{'text': 'Still, another chef must soon be chopped.', 'start': 471.69, 'duration': 2.49}
+{'text': "Chef. Sue, you've been chopped.", 'start': 483.7, 'duration': 2.1}
+{'text': 'Thank you, Chef. Good luck.', 'start': 485.83, 'duration': 0.81}
+{'text': 'Great having you, chef.', 'start': 486.74, 'duration': 0.83}
+{'text': 'Chef Bilbao. Chef.', 'start': 489.96, 'duration': 1.21}
+{'text': 'Aj, do you have what it takes to become the\nnext chopped champion?', 'start': 491.17, 'duration': 4.47}
+{'text': '100%.', 'start': 495.79, 'duration': 0.87}
+{'text': 'Well, the dessert round would be a great time\nto show us.', 'start': 497.11, 'duration': 2.91}
+{'text': 'Open them up. Whoa.', 'start': 502.71, 'duration': 3.67}
+{'text': "You've got pork floss, Thai basil rock candy\nand Vietnamese egg coffee.", 'start': 506.53, 'duration': 6.66}
+{'text': 'Remember, this is still a noodle\ncompetition, so you must use noodles from the', 'start': 513.22, 'duration': 4.23}
+{'text': 'pantry in some way.', 'start': 517.45, 'duration': 1.86}
+{'text': '30 minutes restored to the countdown clock.', 'start': 519.46, 'duration': 2.4}
+{'text': 'Time starts now.', 'start': 521.89, 'duration': 1.14}
+{'text': 'Woo! Woo! Yeah.', 'start': 523.06, 'duration': 1.32}
+{'text': 'Good luck. Good luck.', 'start': 524.89, 'duration': 0.9}
+{'text': 'I worked at desert station property.', 'start': 527.87, 'duration': 3.08}
+{'text': 'It looks perfect to pipe something into, so\nmy mind immediately went to cannoli.', 'start': 530.96, 'duration': 4.56}
+{'text': "I'm making bakery cannoli.", 'start': 536.6, 'duration': 1.71}
+{'text': 'I dropped my packet in the salted water and\nI start making my whipped cream at vanilla', 'start': 538.46, 'duration': 5.49}
+{'text': 'and some sugar.', 'start': 543.95, 'duration': 0.9}
+{'text': "Yeah, we had mummy's egg coffee.", 'start': 546.71, 'duration': 3.21}
+{'text': 'It looks like cappuccino.', 'start': 550.1, 'duration': 1.89}
+{'text': 'I think it will be fun to make ice cream\nthat flavor.', 'start': 552.47, 'duration': 4.89}
+{'text': "I'm making Vietnamese coffee ice cream with\na noodle churros patties and a meringue.", 'start': 558.05, 'duration': 6.78}
+{'text': "To make my churros, I'm using a fresh Korean\ncut noodle, and I'm going to mix it into my", 'start': 565.31, 'duration': 8.16}
+{'text': 'churros batter.', 'start': 573.47, 'duration': 1.05}
+{'text': 'Thai Basil is obviously a very floral pungent\nherb, similar to Basil, obviously, but more', 'start': 576.09, 'duration': 6.15}
+{'text': 'concentrated, I would say.', 'start': 582.24, 'duration': 1.53}
+{'text': 'I add some butter to the pan along with my\npasta and sauteed with Thai basil.', 'start': 584.1, 'duration': 3.87}
+{'text': 'Oh, come on.', 'start': 588.57, 'duration': 1.62}
+{'text': 'Come on, come on. Work for me.', 'start': 590.19, 'duration': 1.7}
+{'text': 'So I go to check my ice cream.', 'start': 591.9, 'duration': 1.92}
+{'text': 'Come on. Come on. Oh, and it is really\nthick.', 'start': 593.91, 'duration': 4.47}
+{'text': "Chef Pablo's ice cream looks very overturned,\nand that's the only place that she added the", 'start': 599.25, 'duration': 4.92}
+{'text': 'Vietnamese egg coffee.', 'start': 604.2, 'duration': 1.35}
+{'text': 'Just under two minutes.', 'start': 607.26, 'duration': 1.38}
+{'text': 'I mixed the pork floss into my ice cream to\ngive a little bit of umami flavor.', 'start': 608.85, 'duration': 5.67}
+{'text': 'Check your basket.', 'start': 615.09, 'duration': 1.11}
+{'text': 'All the ingredients, Chefs.', 'start': 616.2, 'duration': 1.77}
+{'text': 'I create my paccheri cannoli by piping my\ncream mixture into the pasta.', 'start': 618.33, 'duration': 4.83}
+{'text': 'The clock is running out, and I need to put\neverything together.', 'start': 624.56, 'duration': 4.65}
+{'text': 'How are you feeling, chef?', 'start': 629.69, 'duration': 0.96}
+{'text': 'Aj? Doing all right?', 'start': 630.68, 'duration': 1.32}
+{'text': 'Doing my best.', 'start': 632.0, 'duration': 0.96}
+{'text': 'Me too. I top my meringue with Thai basil.', 'start': 632.99, 'duration': 3.66}
+{'text': 'Hand with rock candy as a.', 'start': 640.35, 'duration': 1.65}
+{'text': 'Sprinkle on top. Here we go.', 'start': 642.0, 'duration': 2.1}
+{'text': 'Final seconds of the final round.', 'start': 644.13, 'duration': 1.41}
+{'text': 'Ingredients, check your inventory.', 'start': 645.75, 'duration': 1.65}
+{'text': 'Nine, eight.', 'start': 647.43, 'duration': 1.68}
+{'text': 'Seven, six, five, four, three, two, one.', 'start': 649.11, 'duration': 6.87}
+{'text': "Time's up. Wow.", 'start': 657.18, 'duration': 3.9}
+{'text': 'Chef and Chef Bao Bao.', 'start': 663.95, 'duration': 1.77}
+{'text': 'In the final round, your mission was to make\nsweet and tasty dishes using pork floss, Thai', 'start': 665.72, 'duration': 6.12}
+{'text': 'basil, rock candy and Vietnamese egg coffee.', 'start': 671.87, 'duration': 4.02}
+{'text': 'Chef Bao Bao, what do we have?', 'start': 676.16, 'duration': 1.62}
+{'text': 'So right in front of you is Vietnamese pork,\nfrost, ice cream and a noodle churros.', 'start': 677.81, 'duration': 6.66}
+{'text': 'On top of it is a meringue.', 'start': 684.65, 'duration': 1.83}
+{'text': 'Finally, chef.', 'start': 689.81, 'duration': 0.69}
+{'text': 'Aj So here I have my play on a cannoli.', 'start': 690.51, 'duration': 2.81}
+{'text': "I'm calling it a bakery cannoli.", 'start': 693.47, 'duration': 2.07}
+{'text': 'With this round, I really just wanted to get\noutside of my comfort zone.', 'start': 695.78, 'duration': 3.63}
+{'text': "I've never done something like this before,\nbut I really just wanted to end things with a", 'start': 699.41, 'duration': 3.27}
+{'text': 'bang.', 'start': 702.68, 'duration': 0.33}
+{'text': 'So whose dish is on the chopping block?', 'start': 704.3, 'duration': 3.93}
+{'text': "Chef. Aj, you've been chopped.", 'start': 719.11, 'duration': 2.13}
+{'text': 'Judges.', 'start': 721.27, 'duration': 0.78}
+{'text': 'Chef in your appetizer round, the usage of\nthat peanut brittle just rendered dish', 'start': 722.8, 'duration': 4.74}
+{'text': 'overall a little bit too sweet in your main\ncourse, A little bit too much white wine.', 'start': 727.54, 'duration': 4.08}
+{'text': 'Just rendered it a little tangy on the back\nend of the palate.', 'start': 731.62, 'duration': 3.03}
+{'text': 'And so we had to chop.', 'start': 734.65, 'duration': 1.77}
+{'text': 'You understood?', 'start': 736.42, 'duration': 1.35}
+{'text': 'Thank you, chef.', 'start': 737.77, 'duration': 0.51}
+{'text': 'And that means Chef Bao Bao, you are the\nchopped champion for using your noodles', 'start': 741.38, 'duration': 5.73}
+{'text': 'better than everybody else.', 'start': 747.11, 'duration': 1.71}
+{'text': "You're walking away with $10,000.", 'start': 748.82, 'duration': 2.81}
+{'text': 'Congratulations, chef.', 'start': 751.64, 'duration': 1.29}
+{'text': 'What is your mom going to think?', 'start': 755.83, 'duration': 1.59}
+{'text': 'Oh, are we going to go have some drink\ntonight?', 'start': 757.9, 'duration': 1.5}

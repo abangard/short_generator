@@ -1,0 +1,219 @@
+{'text': 'four competitors think they have what it', 'start': 0.04, 'duration': 3.52}
+{'text': 'takes to be the chopped Champion I spent', 'start': 1.56, 'duration': 3.52}
+{'text': 'all my money opening the restaurant you', 'start': 3.56, 'duration': 4.52}
+{'text': 'know my dream so $110,000 would', 'start': 5.08, 'duration': 4.88}
+{'text': 'certainly go a long way the first thing', 'start': 8.08, 'duration': 3.0}
+{'text': 'I would have done is ran over to the', 'start': 9.96, 'duration': 2.719}
+{'text': 'sink to clean that colomar under running', 'start': 11.08, 'duration': 3.679}
+{'text': 'cold water you can get it done a lot', 'start': 12.679, 'duration': 4.68}
+{'text': 'faster at this point my mind is running', 'start': 14.759, 'duration': 5.041}
+{'text': "100 mph for a 22-year-old who doesn't", 'start': 17.359, 'duration': 4.881}
+{'text': 'make that much money $10,000 would help', 'start': 19.8, 'duration': 4.04}
+{'text': 'me take care of my mother and help me', 'start': 22.24, 'duration': 3.6}
+{'text': "pay for a lot of bills I'm just going to", 'start': 23.84, 'duration': 4.16}
+{'text': 'lightly sear the Camari get a little bit', 'start': 25.84, 'duration': 4.48}
+{'text': 'of caramelization on it just give it the', 'start': 28.0, 'duration': 4.68}
+{'text': "respect that it deserves I've been", 'start': 30.32, 'duration': 4.48}
+{'text': 'cooking for 20 years these guys are', 'start': 32.68, 'duration': 3.64}
+{'text': 'young and at the end of the day I have', 'start': 34.8, 'duration': 4.439}
+{'text': 'more experience than I', 'start': 36.32, 'duration': 2.919}
+{'text': 'do welcome chefs here are the rules', 'start': 39.32, 'duration': 5.399}
+{'text': 'there are three rounds appetizer entree', 'start': 42.559, 'duration': 4.32}
+{'text': 'and dessert each course in the meal', 'start': 44.719, 'duration': 4.041}
+{'text': 'comes with its own basket of mystery', 'start': 46.879, 'duration': 4.041}
+{'text': 'ingredients you must use every', 'start': 48.76, 'duration': 4.319}
+{'text': 'ingredient in the basket in some way if', 'start': 50.92, 'duration': 4.76}
+{'text': "your dish doesn't cut it you will be", 'start': 53.079, 'duration': 5.241}
+{'text': 'chopped please open your', 'start': 55.68, 'duration': 5.28}
+{'text': 'baskets and for the appetizer course you', 'start': 58.32, 'duration': 6.159}
+{'text': 'must use smoked oysters starf', 'start': 60.96, 'duration': 5.08}
+{'text': 'fruit', 'start': 64.479, 'duration': 4.721}
+{'text': 'hikma and pole', 'start': 66.04, 'duration': 6.439}
+{'text': 'calamari exactly 20 minutes on the clock', 'start': 69.2, 'duration': 5.76}
+{'text': 'time starts', 'start': 72.479, 'duration': 5.041}
+{'text': 'now usually when I eat fresh oysters my', 'start': 74.96, 'duration': 4.479}
+{'text': "lip will swell up behind but I'm going", 'start': 77.52, 'duration': 4.559}
+{'text': 'to try to do the best that I can right', 'start': 79.439, 'duration': 4.441}
+{'text': 'away I grab Linguini because I need', 'start': 82.079, 'duration': 3.281}
+{'text': 'something to marry all the ingredients', 'start': 83.88, 'duration': 3.879}
+{'text': "together I'm going to make pasta with a", 'start': 85.36, 'duration': 5.399}
+{'text': 'saut calamari with a hick starf fruit', 'start': 87.759, 'duration': 5.04}
+{'text': 'and a smoked oyster', 'start': 90.759, 'duration': 4.72}
+{'text': 'Ragu they eat so much calamari in Spain', 'start': 92.799, 'duration': 5.64}
+{'text': "it's scary they eat it stuffed grilled", 'start': 95.479, 'duration': 4.361}
+{'text': 'fried', 'start': 98.439, 'duration': 3.96}
+{'text': "breaded I'm going to make a Napoleon out", 'start': 99.84, 'duration': 4.84}
+{'text': 'of the hikima calamari and the smoked', 'start': 102.399, 'duration': 5.801}
+{'text': 'oysters with a starfruit v a gr I', 'start': 104.68, 'duration': 6.28}
+{'text': 'grabbed some flour grabbed some', 'start': 108.2, 'duration': 5.12}
+{'text': "spices I'm going to make pan fried", 'start': 110.96, 'duration': 5.479}
+{'text': 'calamari with sauteed smoked oysters and', 'start': 113.32, 'duration': 5.56}
+{'text': 'a hikima and starfruit SLO these are', 'start': 116.439, 'duration': 5.161}
+{'text': 'ingredients that I feel comfortable with', 'start': 118.88, 'duration': 4.76}
+{'text': 'pork and shellfish is the road I like to', 'start': 121.6, 'duration': 4.519}
+{'text': "travel on so I'm planning on making a", 'start': 123.64, 'duration': 4.759}
+{'text': 'squid stuffed with Italian sausage over', 'start': 126.119, 'duration': 5.601}
+{'text': 'a light stew of smoked oysters and bacon', 'start': 128.399, 'duration': 5.881}
+{'text': 'with a little salad of Pika and starf', 'start': 131.72, 'duration': 4.96}
+{'text': 'fruit one minute left', 'start': 134.28, 'duration': 4.88}
+{'text': 'chefs I look over at my competitors and', 'start': 136.68, 'duration': 4.839}
+{'text': "the guys are running around so much I'm", 'start': 139.16, 'duration': 4.48}
+{'text': 'thinking my plates are way too', 'start': 141.519, 'duration': 4.44}
+{'text': "simple Jennifer's done and she's", 'start': 143.64, 'duration': 4.0}
+{'text': 'standing at', 'start': 145.959, 'duration': 4.201}
+{'text': 'attention it is you against the block', 'start': 147.64, 'duration': 9.319}
+{'text': 'chefs and 10 9 8 7 with about 6 seconds', 'start': 150.16, 'duration': 9.52}
+{'text': 'left run to the pant you to grab truffle', 'start': 156.959, 'duration': 6.0}
+{'text': "oil what's going on this doesn't look", 'start': 159.68, 'duration': 7.24}
+{'text': "good time's up please step back Chef", 'start': 162.959, 'duration': 7.64}
+{'text': 'Jennifer I made sauteed squid with a', 'start': 166.92, 'duration': 6.679}
+{'text': 'Napoleon of hikima smoked oysters and', 'start': 170.599, 'duration': 6.241}
+{'text': 'cucumber with a starfruit and red pepper', 'start': 173.599, 'duration': 5.0}
+{'text': 'vinegrette to make it nice and fresh', 'start': 176.84, 'duration': 5.24}
+{'text': 'Chef Kelvin I did a linguini pasta with', 'start': 178.599, 'duration': 6.041}
+{'text': 'sauteed calamari and a quick Ragu of the', 'start': 182.08, 'duration': 4.76}
+{'text': 'starfruit hikma and smoked oysters', 'start': 184.64, 'duration': 4.599}
+{'text': 'Daniel I have for you a pan fried', 'start': 186.84, 'duration': 5.319}
+{'text': 'calamari with sauteed smoked oysters and', 'start': 189.239, 'duration': 5.92}
+{'text': 'a warm salad with hikma and starf fruit', 'start': 192.159, 'duration': 6.201}
+{'text': 'Chef Jason I cooked a stuffed squid with', 'start': 195.159, 'duration': 6.08}
+{'text': 'Italian sausage over a stew of bacon', 'start': 198.36, 'duration': 4.56}
+{'text': 'smoked oysters and a hikma and starf', 'start': 201.239, 'duration': 5.161}
+{'text': 'fruit salad so whose dish is on The', 'start': 202.92, 'duration': 5.76}
+{'text': 'Chopping', 'start': 206.4, 'duration': 5.28}
+{'text': 'Block', 'start': 208.68, 'duration': 3.0}
+{'text': "Chef Daniel you've been Chopped judges", 'start': 217.28, 'duration': 4.84}
+{'text': 'Daniel today you had some technical', 'start': 220.68, 'duration': 3.52}
+{'text': 'flaws here we really like the pickling', 'start': 222.12, 'duration': 4.319}
+{'text': 'element uh of the hikma and the star', 'start': 224.2, 'duration': 5.239}
+{'text': 'fruit but it just got overwhelmed with', 'start': 226.439, 'duration': 5.72}
+{'text': 'heat Chef Jennifer Chef Kelvin Chef', 'start': 229.439, 'duration': 4.921}
+{'text': "Jason let's see what surprises the", 'start': 232.159, 'duration': 5.481}
+{'text': 'baskets hold this time please open them', 'start': 234.36, 'duration': 5.32}
+{'text': 'up the mandatory ingredients for the', 'start': 237.64, 'duration': 4.48}
+{'text': 'entree round are jumbo', 'start': 239.68, 'duration': 4.72}
+{'text': 'shrimp creme de', 'start': 242.12, 'duration': 7.319}
+{'text': 'ciss black quinoa and', 'start': 244.4, 'duration': 5.039}
+{'text': 'pami 30 minutes on the clock time starts', 'start': 249.64, 'duration': 7.64}
+{'text': 'now my plan is to cook the shrimp two', 'start': 254.36, 'duration': 6.2}
+{'text': 'ways one wrapped in pami the other one', 'start': 257.28, 'duration': 6.919}
+{'text': 'seared over a risotto style quinoa and a', 'start': 260.56, 'duration': 7.4}
+{'text': "CR CIS gastri I'm going to make a seared", 'start': 264.199, 'duration': 7.481}
+{'text': 'jumbo shrimp with a quinoa and pami', 'start': 267.96, 'duration': 7.12}
+{'text': 'risoto with a creme to ciss reduction', 'start': 271.68, 'duration': 5.28}
+{'text': "I'm going to make seared shrimp with a", 'start': 275.08, 'duration': 4.959}
+{'text': 'confetti of black quinoa pami and', 'start': 276.96, 'duration': 6.84}
+{'text': 'vegetables purple potatoes and a casis', 'start': 280.039, 'duration': 5.961}
+{'text': 'reduction this quinoa is not cooked and', 'start': 283.8, 'duration': 3.959}
+{'text': "I know it at this point there isn't", 'start': 286.0, 'duration': 4.12}
+{'text': 'enough time for me to fix it one minute', 'start': 287.759, 'duration': 5.081}
+{'text': 'left chefs oh my God come on plate this', 'start': 290.12, 'duration': 5.6}
+{'text': 'food guys plate the food unfortunately', 'start': 292.84, 'duration': 5.04}
+{'text': "the quino has to go down first it's the", 'start': 295.72, 'duration': 4.0}
+{'text': 'worst feeling to have to Plate something', 'start': 297.88, 'duration': 4.68}
+{'text': "that is not meant to be plated there's", 'start': 299.72, 'duration': 10.24}
+{'text': 'next to No Time Left chefs and 10 9 8 7', 'start': 302.56, 'duration': 16.8}
+{'text': "6 5 4 3 2 1 time's up please step", 'start': 309.96, 'duration': 9.4}
+{'text': "back Chef Kelvin how'd you handle that", 'start': 319.479, 'duration': 4.761}
+{'text': 'what I have for you I have a seared five', 'start': 322.36, 'duration': 4.6}
+{'text': 'spice jumbo shrimp with a pastrami', 'start': 324.24, 'duration': 4.76}
+{'text': 'quinoa risotto and a creme to ciss', 'start': 326.96, 'duration': 3.4}
+{'text': 'reduction', 'start': 329.0, 'duration': 4.759}
+{'text': 'next up Chef Jason I cooked for you', 'start': 330.36, 'duration': 5.64}
+{'text': 'shrimp two ways one wrapped in Pon the', 'start': 333.759, 'duration': 4.201}
+{'text': 'other one lightly seared with stewed', 'start': 336.0, 'duration': 5.28}
+{'text': 'quinoa apples carrots and celery and', 'start': 337.96, 'duration': 7.04}
+{'text': 'then a gastrique of Cassis Chef Jennifer', 'start': 341.28, 'duration': 6.0}
+{'text': 'I made rare seared shrimp with a', 'start': 345.0, 'duration': 5.16}
+{'text': 'confetti of quinoa with the stami and', 'start': 347.28, 'duration': 4.039}
+{'text': 'purple', 'start': 350.16, 'duration': 4.12}
+{'text': 'potatoes so whose dish is on The', 'start': 351.319, 'duration': 5.361}
+{'text': 'Chopping', 'start': 354.28, 'duration': 2.4}
+{'text': 'Block', 'start': 358.479, 'duration': 3.0}
+{'text': "Chef Jason you've been Chopped judges", 'start': 364.0, 'duration': 6.12}
+{'text': "Jason you're obviously a talented Chef", 'start': 367.759, 'duration': 4.28}
+{'text': 'unfortunately the quinoa was definitely', 'start': 370.12, 'duration': 3.639}
+{'text': 'way undercooked and we also felt that', 'start': 372.039, 'duration': 3.44}
+{'text': "the pastrami didn't quite work I think", 'start': 373.759, 'duration': 3.801}
+{'text': 'the way you wanted it to thank you good', 'start': 375.479, 'duration': 5.521}
+{'text': 'luck guys Chef Jennifer Chef Kelvin', 'start': 377.56, 'duration': 4.52}
+{'text': 'please open your', 'start': 381.0, 'duration': 3.199}
+{'text': 'baskets and you must use in your', 'start': 382.08, 'duration': 4.0}
+{'text': 'desserts matzah', 'start': 384.199, 'duration': 4.201}
+{'text': 'crackers lady gala', 'start': 386.08, 'duration': 3.92}
+{'text': 'apples', 'start': 388.4, 'duration': 4.84}
+{'text': 'walnuts and', 'start': 390.0, 'duration': 3.24}
+{'text': 'bch 30 minutes on the clock time starts', 'start': 393.28, 'duration': 7.0}
+{'text': "now I'm going to make matah crusted pan", 'start': 397.319, 'duration': 5.88}
+{'text': 'Purdue with bourch sauce caramelized', 'start': 400.28, 'duration': 5.88}
+{'text': 'apples and maple syrup glazed walnuts', 'start': 403.199, 'duration': 4.641}
+{'text': "after round one and two I'm more", 'start': 406.16, 'duration': 5.28}
+{'text': "confident I've made it this far for a", 'start': 407.84, 'duration': 6.0}
+{'text': 'reason I think apples make a great', 'start': 411.44, 'duration': 5.0}
+{'text': "dessert so I'm going to make a take off", 'start': 413.84, 'duration': 4.359}
+{'text': 'of a brown Betty which is a fruit', 'start': 416.44, 'duration': 4.08}
+{'text': 'dessert with bread and butter', 'start': 418.199, 'duration': 5.12}
+{'text': 'chefs you have 10 minutes left on the', 'start': 420.52, 'duration': 4.959}
+{'text': 'clock look we have 10 minutes here and', 'start': 423.319, 'duration': 3.44}
+{'text': "Chef Kelvin doesn't even have his", 'start': 425.479, 'duration': 3.84}
+{'text': 'pampero in his pan', 'start': 426.759, 'duration': 5.081}
+{'text': 'yet and I hear 10 minutes I need to', 'start': 429.319, 'duration': 4.6}
+{'text': "start cooking I'm not really worried", 'start': 431.84, 'duration': 3.88}
+{'text': 'about my bread being dry at this point I', 'start': 433.919, 'duration': 4.601}
+{'text': "think it's soaked long enough sweet swe", 'start': 435.72, 'duration': 4.64}
+{'text': "up I know the strawberry won't be enough", 'start': 438.52, 'duration': 3.88}
+{'text': 'to sweeten up the Bor sauce so I grabb', 'start': 440.36, 'duration': 4.2}
+{'text': "the strawberry jam it's rock and roll", 'start': 442.4, 'duration': 4.16}
+{'text': "baby it's a friendly competition we both", 'start': 444.56, 'duration': 3.88}
+{'text': "want to win but in the end we're Two", 'start': 446.56, 'duration': 4.56}
+{'text': 'Chefs competing for this same thing 5', 'start': 448.44, 'duration': 4.479}
+{'text': 'minutes left on the clock', 'start': 451.12, 'duration': 5.4}
+{'text': 'chefs I do see Jennifer with ring molds', 'start': 452.919, 'duration': 5.801}
+{'text': "interesting I'm going to use ring molds", 'start': 456.52, 'duration': 4.519}
+{'text': 'just to have a nice Center on the plate', 'start': 458.72, 'duration': 5.039}
+{'text': 'the caramel is not stretching the way it', 'start': 461.039, 'duration': 7.641}
+{'text': 'normally would and they start', 'start': 463.759, 'duration': 4.921}
+{'text': "Bolding and it's like Oh", 'start': 470.56, 'duration': 6.72}
+{'text': 'no just under 2 minutes', 'start': 473.72, 'duration': 5.879}
+{'text': "chefs I'm cutting up the pen for do in a", 'start': 477.28, 'duration': 4.84}
+{'text': 'triangle so I can present it nicely I', 'start': 479.599, 'duration': 3.641}
+{'text': 'still have one more in the oven because', 'start': 482.12, 'duration': 3.56}
+{'text': "I know it's not quite ready and I want", 'start': 483.24, 'duration': 4.799}
+{'text': 'everything to be perfect time time time', 'start': 485.68, 'duration': 3.479}
+{'text': 'one minute', 'start': 488.039, 'duration': 4.081}
+{'text': 'chefs when I take the r molds off it', 'start': 489.159, 'duration': 6.6}
+{'text': 'does spread a little bit further than I', 'start': 492.12, 'duration': 6.84}
+{'text': 'hoped this is not what I had planned but', 'start': 495.759, 'duration': 4.72}
+{'text': "there's really nothing I can do to fix", 'start': 498.96, 'duration': 3.48}
+{'text': "it because time's running out Jen how", 'start': 500.479, 'duration': 4.44}
+{'text': "you doing Jen I'm doing good how about", 'start': 502.44, 'duration': 5.36}
+{'text': "you I'm doing amazing give it all you've", 'start': 504.919, 'duration': 13.441}
+{'text': 'got left chefs and and 10 9 8 7 6 5 4 3', 'start': 507.8, 'duration': 15.119}
+{'text': "2 1 time's up please step", 'start': 518.36, 'duration': 8.2}
+{'text': "back Chef Jennifer I've made a take off", 'start': 522.919, 'duration': 6.441}
+{'text': 'of a brown Betty gala apples with matab', 'start': 526.56, 'duration': 5.279}
+{'text': 'Bal crumbs I made a coolies out of the', 'start': 529.36, 'duration': 4.44}
+{'text': 'bch with a little bit of walnuts', 'start': 531.839, 'duration': 6.24}
+{'text': 'molasses and mapone Chef Kelvin judges', 'start': 533.8, 'duration': 6.0}
+{'text': 'uh for you I have a mat crusted pan', 'start': 538.079, 'duration': 4.361}
+{'text': 'Purdue with a strawberry bourch sauce', 'start': 539.8, 'duration': 5.52}
+{'text': 'caramelized apples and maple glazed', 'start': 542.44, 'duration': 8.24}
+{'text': 'walnuts so whose dish is on The Chopping', 'start': 545.32, 'duration': 5.36}
+{'text': "Block Chef Kelvin you've been", 'start': 557.48, 'duration': 6.16}
+{'text': 'chopped Chef Kelvin you have an', 'start': 561.04, 'duration': 4.52}
+{'text': 'unbelievable future before you and you', 'start': 563.64, 'duration': 3.84}
+{'text': 'need to know that there was just some', 'start': 565.56, 'duration': 4.0}
+{'text': 'issues with your dishes starting with', 'start': 567.48, 'duration': 3.84}
+{'text': "the appetizer we just didn't see how the", 'start': 569.56, 'duration': 3.92}
+{'text': 'starf fruit and the heika really fit and', 'start': 571.32, 'duration': 4.0}
+{'text': 'in the dessert we just felt that the pan', 'start': 573.48, 'duration': 3.88}
+{'text': 'Purdue was really dry and those were the', 'start': 575.32, 'duration': 3.639}
+{'text': 'reasons that we had to chop you I want', 'start': 577.36, 'duration': 3.28}
+{'text': 'to thank you guys for the opportunity I', 'start': 578.959, 'duration': 3.88}
+{'text': 'really appreciate it congratulations', 'start': 580.64, 'duration': 3.28}
+{'text': 'thank', 'start': 582.839, 'duration': 3.641}
+{'text': 'you and that means Chef Jennifer that', 'start': 583.92, 'duration': 4.68}
+{'text': "you are the chopped champion and you've", 'start': 586.48, 'duration': 4.64}
+{'text': 'just instantly become $10,000 richer', 'start': 588.6, 'duration': 5.96}
+{'text': 'congratulations thank you very', 'start': 591.12, 'duration': 3.44}
+{'text': 'much', 'start': 598.12, 'duration': 3.0}

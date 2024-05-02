@@ -1,0 +1,542 @@
+{'text': 'our main story tonight concerns the', 'start': 4.799, 'duration': 3.04}
+{'text': "philippines it's the country that gave", 'start': 6.48, 'duration': 3.52}
+{'text': 'us among other things bruno mars olivia', 'start': 7.839, 'duration': 4.8}
+{'text': 'rodrigo and jollibee the single greatest', 'start': 10.0, 'duration': 5.599}
+{'text': "fast food mascot of all time he's a six", 'start': 12.639, 'duration': 5.281}
+{'text': 'foot five b in a tuxedo top that just', 'start': 15.599, 'duration': 3.68}
+{'text': 'wants to serve you fried chicken and', 'start': 17.92, 'duration': 4.0}
+{'text': 'spaghetti what do we have that compares', 'start': 19.279, 'duration': 5.361}
+{'text': 'to that terrifyingly large child', 'start': 21.92, 'duration': 5.439}
+{'text': 'hamburger joker hello mr police i gave', 'start': 24.64, 'duration': 5.12}
+{'text': 'you all the clues please', 'start': 27.359, 'duration': 4.641}
+{'text': 'the winner here is clear', 'start': 29.76, 'duration': 3.52}
+{'text': "we've discussed the philippines on this", 'start': 32.0, 'duration': 2.96}
+{'text': 'show before mostly thanks to their', 'start': 33.28, 'duration': 2.959}
+{'text': 'current leader and self-proclaimed', 'start': 34.96, 'duration': 3.599}
+{'text': 'dictator rodrigo duterte who has if', 'start': 36.239, 'duration': 7.16}
+{'text': 'nothing else away with words', 'start': 38.559, 'duration': 4.84}
+{'text': 'why do you have to you know', 'start': 47.84, 'duration': 5.039}
+{'text': ' with us god damn it yes again i', 'start': 50.079, 'duration': 6.16}
+{'text': 'repeat it you', 'start': 52.879, 'duration': 3.36}
+{'text': 'now i know that is a striking amount of', 'start': 56.8, 'duration': 4.64}
+{'text': 'swearing but you also cannot understate', 'start': 59.359, 'duration': 4.241}
+{'text': 'just how brazen it is for the president', 'start': 61.44, 'duration': 4.719}
+{'text': 'of the philippines a nation over 80', 'start': 63.6, 'duration': 5.12}
+{'text': 'catholic to call the pope a son of a', 'start': 66.159, 'duration': 6.081}
+{'text': ' that is a big deal imagine if joe', 'start': 68.72, 'duration': 5.439}
+{'text': 'biden publicly told dolly parton to go', 'start': 72.24, 'duration': 4.16}
+{'text': " herself forget backlash he'd be", 'start': 74.159, 'duration': 4.0}
+{'text': 'dragged from the white house by his feet', 'start': 76.4, 'duration': 3.6}
+{'text': 'and rightly so', 'start': 78.159, 'duration': 3.361}
+{'text': "and while duterte's language may have", 'start': 80.0, 'duration': 4.08}
+{'text': 'been shocking his actions have been far', 'start': 81.52, 'duration': 4.639}
+{'text': "worse especially his war on drugs it's", 'start': 84.08, 'duration': 3.92}
+{'text': 'estimated that on his watch government', 'start': 86.159, 'duration': 3.761}
+{'text': 'officials or vigilantes have killed up', 'start': 88.0, 'duration': 4.88}
+{'text': 'to 30 000 people in violence which even', 'start': 89.92, 'duration': 4.239}
+{'text': 'triggered the international criminal', 'start': 92.88, 'duration': 3.04}
+{'text': 'court to launch an investigation into', 'start': 94.159, 'duration': 3.761}
+{'text': 'possible crimes against humanity and', 'start': 95.92, 'duration': 4.559}
+{'text': 'duterte has viciously targeted his', 'start': 97.92, 'duration': 4.479}
+{'text': 'critics this senator who launched an', 'start': 100.479, 'duration': 3.841}
+{'text': 'investigation into his drug war has been', 'start': 102.399, 'duration': 3.68}
+{'text': 'languishing in jail for the last five', 'start': 104.32, 'duration': 4.079}
+{'text': 'years and nobel peace prize winner maria', 'start': 106.079, 'duration': 4.481}
+{'text': 'ressa and her news website rappler have', 'start': 108.399, 'duration': 4.4}
+{'text': 'been buried in legal actions facing at', 'start': 110.56, 'duration': 5.12}
+{'text': 'least 11 cases and 10 arrest warrants', 'start': 112.799, 'duration': 4.561}
+{'text': 'since duterte came into office and the', 'start': 115.68, 'duration': 4.479}
+{'text': "thing is that's just the beginning", 'start': 117.36, 'duration': 5.039}
+{'text': 'the philippines consistently ranks among', 'start': 120.159, 'duration': 4.32}
+{'text': 'the top 10 deadliest countries for', 'start': 122.399, 'duration': 3.441}
+{'text': 'journalists', 'start': 124.479, 'duration': 3.76}
+{'text': 'reports say as many as 19 of them have', 'start': 125.84, 'duration': 5.199}
+{'text': 'been killed since duterte took office at', 'start': 128.239, 'duration': 5.441}
+{'text': 'news of one he replied just because', 'start': 131.039, 'duration': 4.961}
+{'text': "you're a journalist you are not exempted", 'start': 133.68, 'duration': 6.24}
+{'text': "from assassination if you're a son of a", 'start': 136.0, 'duration': 7.28}
+{'text': 'holy that speaks not only to his', 'start': 139.92, 'duration': 5.52}
+{'text': 'brutality but also to the incredible', 'start': 143.28, 'duration': 4.4}
+{'text': 'bravery of journalists there because the', 'start': 145.44, 'duration': 4.879}
+{'text': 'possibility of assassination is the kind', 'start': 147.68, 'duration': 4.8}
+{'text': 'of thing that can thin out a workforce', 'start': 150.319, 'duration': 4.481}
+{'text': "if michael's jobs listing said", 'start': 152.48, 'duration': 4.08}
+{'text': 'applicants must have some familiarity', 'start': 154.8, 'duration': 4.0}
+{'text': 'with candle making and scrapbooking also', 'start': 156.56, 'duration': 4.0}
+{'text': 'please note employees are not exempted', 'start': 158.8, 'duration': 3.68}
+{'text': "from assassination if they're sons of", 'start': 160.56, 'duration': 4.319}
+{'text': " i don't think anyone would work", 'start': 162.48, 'duration': 4.56}
+{'text': "at michael's anymore", 'start': 164.879, 'duration': 4.161}
+{'text': "now thankfully duterte's term is about", 'start': 167.04, 'duration': 3.44}
+{'text': 'to come to an end presidents in the', 'start': 169.04, 'duration': 3.919}
+{'text': 'philippines can only serve one six-year', 'start': 170.48, 'duration': 4.0}
+{'text': 'term and elections are actually', 'start': 172.959, 'duration': 3.841}
+{'text': 'happening there tomorrow and this is a', 'start': 174.48, 'duration': 4.96}
+{'text': 'big election in every sense the', 'start': 176.8, 'duration': 4.799}
+{'text': 'philippines is a nation of 100 million', 'start': 179.44, 'duration': 4.719}
+{'text': 'people and turnout is often around 80', 'start': 181.599, 'duration': 4.401}
+{'text': 'although unfortunately there are some', 'start': 184.159, 'duration': 4.321}
+{'text': 'disconcertingly familiar faces running', 'start': 186.0, 'duration': 5.12}
+{'text': "in this duterte's own daughter sarah is", 'start': 188.48, 'duration': 4.399}
+{'text': 'running for vice president a position', 'start': 191.12, 'duration': 3.28}
+{'text': 'which is elected separately in the', 'start': 192.879, 'duration': 3.921}
+{'text': 'philippines and to get just a little', 'start': 194.4, 'duration': 5.04}
+{'text': 'sense of her here she is when she was a', 'start': 196.8, 'duration': 3.439}
+{'text': 'mayor', 'start': 199.44, 'duration': 2.799}
+{'text': 'punching a local sheriff', 'start': 200.239, 'duration': 4.08}
+{'text': 'that she was angry with and it is just', 'start': 202.239, 'duration': 3.841}
+{'text': 'not great that you can look at that and', 'start': 204.319, 'duration': 3.84}
+{'text': "fairly say well at least she's not as", 'start': 206.08, 'duration': 3.92}
+{'text': 'violent as her dad', 'start': 208.159, 'duration': 3.281}
+{'text': "but there's also someone running for", 'start': 210.0, 'duration': 2.879}
+{'text': 'president and it was actually pretty', 'start': 211.44, 'duration': 3.76}
+{'text': 'likely to win who has an even more', 'start': 212.879, 'duration': 4.08}
+{'text': 'alarming last name', 'start': 215.2, 'duration': 3.759}
+{'text': 'a front-runner in the current polls', 'start': 216.959, 'duration': 5.601}
+{'text': 'ferdinand bongbong marcos jr his father', 'start': 218.959, 'duration': 5.521}
+{'text': 'declared martial law ruling the', 'start': 222.56, 'duration': 4.08}
+{'text': 'philippines with a terrible human rights', 'start': 224.48, 'duration': 4.96}
+{'text': 'record until a popular uprising ousted', 'start': 226.64, 'duration': 6.4}
+{'text': 'him in 1986. his mother imelda still', 'start': 229.44, 'duration': 5.68}
+{'text': 'famous for her shoes', 'start': 233.04, 'duration': 3.759}
+{'text': "it's true the son of a guy who", 'start': 235.12, 'duration': 3.759}
+{'text': 'terrorized the philippines for years is', 'start': 236.799, 'duration': 3.601}
+{'text': 'now the front runner to take over and', 'start': 238.879, 'duration': 3.36}
+{'text': "look i'm not saying that anyone should", 'start': 240.4, 'duration': 4.0}
+{'text': 'be judged solely on their family name', 'start': 242.239, 'duration': 4.241}
+{'text': "it's just a little weird in his", 'start': 244.4, 'duration': 4.559}
+{'text': "particular case it'd be like if the most", 'start': 246.48, 'duration': 4.399}
+{'text': 'popular frozen yogurt chain in the u.s', 'start': 248.959, 'duration': 4.961}
+{'text': "was called bin laden's froyo delights i", 'start': 250.879, 'duration': 5.2}
+{'text': 'will say a frozen yogurt shop cannot be', 'start': 253.92, 'duration': 4.08}
+{'text': "called that i just wouldn't expect it to", 'start': 256.079, 'duration': 4.321}
+{'text': 'be a national hit that is after all why', 'start': 258.0, 'duration': 5.28}
+{'text': 'they changed it to pinkberry now', 'start': 260.4, 'duration': 5.519}
+{'text': "as for imelda marcos's gigantic shoe", 'start': 263.28, 'duration': 4.32}
+{'text': "collection that wasn't just a fun", 'start': 265.919, 'duration': 3.84}
+{'text': 'personality quirk it was a sign of the', 'start': 267.6, 'duration': 5.039}
+{'text': "staggering scale of the marcos's graft", 'start': 269.759, 'duration': 4.88}
+{'text': 'they embezzled billions of dollars from', 'start': 272.639, 'duration': 3.12}
+{'text': 'the philippines to the point that it was', 'start': 274.639, 'duration': 3.041}
+{'text': 'once recognized by the guinness world', 'start': 275.759, 'duration': 4.481}
+{'text': 'records as the greatest robbery of a', 'start': 277.68, 'duration': 4.72}
+{'text': 'government and it is a bit weird for', 'start': 280.24, 'duration': 4.399}
+{'text': 'them to be handing out records for such', 'start': 282.4, 'duration': 3.84}
+{'text': "a terrible thing it's like giving lee", 'start': 284.639, 'duration': 4.481}
+{'text': "harvey oswald an award for most jfk's", 'start': 286.24, 'duration': 4.239}
+{'text': 'shot but', 'start': 289.12, 'duration': 3.519}
+{'text': "the enormity of the marcos family's", 'start': 290.479, 'duration': 4.241}
+{'text': 'theft makes how bongbong has described', 'start': 292.639, 'duration': 4.0}
+{'text': 'his childhood on the campaign trail this', 'start': 294.72, 'duration': 2.72}
+{'text': 'year', 'start': 296.639, 'duration': 2.801}
+{'text': 'a little hard to swallow', 'start': 297.44, 'duration': 4.72}
+{'text': 'my parents would never', 'start': 299.44, 'duration': 4.319}
+{'text': 'let us forget', 'start': 302.16, 'duration': 4.479}
+{'text': 'that this is not this is not yours this', 'start': 303.759, 'duration': 5.921}
+{'text': 'is from the people everything we have', 'start': 306.639, 'duration': 5.361}
+{'text': 'all the advantages that we have gained', 'start': 309.68, 'duration': 5.12}
+{'text': 'any successes that we have achieved and', 'start': 312.0, 'duration': 5.6}
+{'text': 'any comfort or privilege that we enjoy', 'start': 314.8, 'duration': 4.959}
+{'text': 'comes from the people now i will say', 'start': 317.6, 'duration': 2.96}
+{'text': 'this', 'start': 319.759, 'duration': 3.121}
+{'text': 'that is not technically inaccurate', 'start': 320.56, 'duration': 4.16}
+{'text': 'the marcos is a sort of the british', 'start': 322.88, 'duration': 4.0}
+{'text': 'museum of families in that most of what', 'start': 324.72, 'duration': 4.96}
+{'text': 'they have is stolen so', 'start': 326.88, 'duration': 4.64}
+{'text': 'if you are wondering how on earth it is', 'start': 329.68, 'duration': 3.359}
+{'text': 'possible for the son of the philippines', 'start': 331.52, 'duration': 3.44}
+{'text': 'most notorious leaders to now be on the', 'start': 333.039, 'duration': 4.321}
+{'text': 'brink of running the country that is', 'start': 334.96, 'duration': 4.64}
+{'text': 'what this story is about and before we', 'start': 337.36, 'duration': 3.76}
+{'text': "start let's acknowledge", 'start': 339.6, 'duration': 3.76}
+{'text': 'there is a lot of history between the us', 'start': 341.12, 'duration': 3.6}
+{'text': 'and the philippines and none of it', 'start': 343.36, 'duration': 3.76}
+{'text': 'reflects particularly well on us to give', 'start': 344.72, 'duration': 4.8}
+{'text': 'you just a quick rundown first the us', 'start': 347.12, 'duration': 4.88}
+{'text': 'bought the philippines in 1898 then', 'start': 349.52, 'duration': 4.0}
+{'text': 'utterly brutalized them in their fight', 'start': 352.0, 'duration': 2.88}
+{'text': 'for independence in the philippine', 'start': 353.52, 'duration': 4.239}
+{'text': 'american war which resulted in 200 000', 'start': 354.88, 'duration': 5.68}
+{'text': 'casualties then subjected them to 50', 'start': 357.759, 'duration': 4.72}
+{'text': 'years of repressive and racist colonial', 'start': 360.56, 'duration': 4.079}
+{'text': 'rule and then even after granting them', 'start': 362.479, 'duration': 4.801}
+{'text': 'their independence in 1946 continued to', 'start': 364.639, 'duration': 4.961}
+{'text': 'use the cia to meddle in their affairs', 'start': 367.28, 'duration': 4.08}
+{'text': 'all in all it was an attitude of', 'start': 369.6, 'duration': 3.599}
+{'text': 'unchecked imperialism that was and i do', 'start': 371.36, 'duration': 4.88}
+{'text': 'not say this lightly borderline british', 'start': 373.199, 'duration': 4.241}
+{'text': 'but', 'start': 376.24, 'duration': 2.64}
+{'text': 'but the story', 'start': 377.44, 'duration': 3.28}
+{'text': "of the mark that hurts didn't it and it", 'start': 378.88, 'duration': 4.08}
+{'text': 'should have done', 'start': 380.72, 'duration': 4.319}
+{'text': 'but the story of the marcos dynasty', 'start': 382.96, 'duration': 4.64}
+{'text': 'really begins in 1965 when ferdinand', 'start': 385.039, 'duration': 4.801}
+{'text': 'marcos was elected and while initially', 'start': 387.6, 'duration': 4.4}
+{'text': 'presenting himself as a reformer by his', 'start': 389.84, 'duration': 4.56}
+{'text': 'second term facing dissent he cracked', 'start': 392.0, 'duration': 4.4}
+{'text': 'down hard inventing or exaggerating', 'start': 394.4, 'duration': 4.0}
+{'text': 'internal threats to justify imposing', 'start': 396.4, 'duration': 3.84}
+{'text': 'martial law and that was a period which', 'start': 398.4, 'duration': 4.56}
+{'text': 'was to put it very very mildly a bad', 'start': 400.24, 'duration': 4.64}
+{'text': 'time to be in the philippines under', 'start': 402.96, 'duration': 5.12}
+{'text': 'martial law some 34 000 were tortured', 'start': 404.88, 'duration': 5.68}
+{'text': 'and thousands more were killed and all', 'start': 408.08, 'duration': 4.959}
+{'text': 'the while the marcoses were siphoning', 'start': 410.56, 'duration': 5.039}
+{'text': 'off money on an astonishing scale with', 'start': 413.039, 'duration': 5.6}
+{'text': 'imelda particularly adept at spending it', 'start': 415.599, 'duration': 5.841}
+{'text': 'imelda known as the iron butterfly would', 'start': 418.639, 'duration': 5.601}
+{'text': 'become a notorious jet-setting socialite', 'start': 421.44, 'duration': 5.759}
+{'text': 'and fashion icon amassing hundreds of', 'start': 424.24, 'duration': 6.239}
+{'text': 'millions in jewels fine art real estate', 'start': 427.199, 'duration': 5.601}
+{'text': 'her travels so luxurious she once', 'start': 430.479, 'duration': 5.12}
+{'text': 'reportedly spent two thousand dollars on', 'start': 432.8, 'duration': 5.119}
+{'text': 'chewing gum during a layover in san', 'start': 435.599, 'duration': 3.681}
+{'text': 'francisco', 'start': 437.919, 'duration': 3.601}
+{'text': 'she even forced an airplane departing', 'start': 439.28, 'duration': 5.199}
+{'text': 'rome to make a u-turn because she forgot', 'start': 441.52, 'duration': 6.399}
+{'text': 'to buy cheese okay hold on hold on i do', 'start': 444.479, 'duration': 5.12}
+{'text': 'have some questions there', 'start': 447.919, 'duration': 3.761}
+{'text': 'first what do you mean forced an', 'start': 449.599, 'duration': 3.121}
+{'text': 'airplane', 'start': 451.68, 'duration': 3.519}
+{'text': 'did imelda storm the cockpit did the', 'start': 452.72, 'duration': 3.919}
+{'text': 'pilot say a soft prayer to see his', 'start': 455.199, 'duration': 3.28}
+{'text': 'children again all because imelda marcos', 'start': 456.639, 'duration': 4.881}
+{'text': 'had a hankering for pecorino also if you', 'start': 458.479, 'duration': 4.801}
+{'text': "forget to buy cheese in italy you're", 'start': 461.52, 'duration': 2.959}
+{'text': 'okay', 'start': 463.28, 'duration': 3.599}
+{'text': 'filipino cuisine is perfectly delicious', 'start': 464.479, 'duration': 4.4}
+{'text': 'without it anyone who has eaten a single', 'start': 466.879, 'duration': 3.921}
+{'text': 'plate of adobo knows there was no need', 'start': 468.879, 'duration': 4.16}
+{'text': 'to introduce aged couches into the', 'start': 470.8, 'duration': 3.76}
+{'text': 'equation there', 'start': 473.039, 'duration': 3.201}
+{'text': 'but as the marcos has plundered and', 'start': 474.56, 'duration': 3.199}
+{'text': 'mismanaged the country the average', 'start': 476.24, 'duration': 4.0}
+{'text': 'filipino suffered badly the economy was', 'start': 477.759, 'duration': 4.56}
+{'text': 'in crisis and the incomes of wage', 'start': 480.24, 'duration': 4.56}
+{'text': 'laborers declined substantially to the', 'start': 482.319, 'duration': 3.841}
+{'text': "point that by the end of ferdinand's", 'start': 484.8, 'duration': 3.28}
+{'text': 'time in office many filipinos were', 'start': 486.16, 'duration': 4.4}
+{'text': 'surviving on less than two dollars a day', 'start': 488.08, 'duration': 5.44}
+{'text': 'and while again bongbong is not innately', 'start': 490.56, 'duration': 4.88}
+{'text': 'responsible for the actions of his', 'start': 493.52, 'duration': 4.32}
+{'text': 'father he very much benefited from that', 'start': 495.44, 'duration': 4.879}
+{'text': 'spending spree the marcos is lavished', 'start': 497.84, 'duration': 4.479}
+{'text': 'money on their children including this', 'start': 500.319, 'duration': 5.011}
+{'text': 'birthday party for their daughter', 'start': 502.319, 'duration': 6.32}
+{'text': '[Applause]', 'start': 505.33, 'duration': 5.309}
+{'text': 'extravagant parties on the presidential', 'start': 508.639, 'duration': 4.32}
+{'text': 'yacht decadent by the standards of this', 'start': 510.639, 'duration': 4.32}
+{'text': 'catholic nation ferdinand junior', 'start': 512.959, 'duration': 3.921}
+{'text': 'nicknamed bongbong governor of the', 'start': 514.959, 'duration': 3.841}
+{'text': "family's home province is the man in the", 'start': 516.88, 'duration': 4.719}
+{'text': 'flashing bow tie what did i just watch', 'start': 518.8, 'duration': 3.919}
+{'text': 'there', 'start': 521.599, 'duration': 2.32}
+{'text': "i honestly don't know what's more", 'start': 522.719, 'duration': 2.961}
+{'text': 'unsettling about that the adult baby', 'start': 523.919, 'duration': 4.161}
+{'text': 'emerging from a cake screaming mommy', 'start': 525.68, 'duration': 3.839}
+{'text': 'or the fact that while bongbong looks', 'start': 528.08, 'duration': 2.96}
+{'text': 'very young there he was actually a', 'start': 529.519, 'duration': 3.681}
+{'text': 'governor then and honestly i would not', 'start': 531.04, 'duration': 4.799}
+{'text': 'trust a man wearing that bow tie to run', 'start': 533.2, 'duration': 4.24}
+{'text': "anything i wouldn't even trust him with", 'start': 535.839, 'duration': 3.201}
+{'text': "the job that he's dressed for there", 'start': 537.44, 'duration': 3.36}
+{'text': 'bringing out the birthday cake at an', 'start': 539.04, 'duration': 3.44}
+{'text': 'olive garden', 'start': 540.8, 'duration': 3.599}
+{'text': 'now the marcos were ultimately forced to', 'start': 542.48, 'duration': 3.919}
+{'text': 'flee the country after a mass uprising', 'start': 544.399, 'duration': 4.961}
+{'text': 'in 1986 but ferdinand held on to the', 'start': 546.399, 'duration': 4.801}
+{'text': 'billions that he stole the family were', 'start': 549.36, 'duration': 4.32}
+{'text': 'granted asylum in hawaii and took a lot', 'start': 551.2, 'duration': 4.639}
+{'text': 'with them on the plane showing up with', 'start': 553.68, 'duration': 4.719}
+{'text': 'seven million dollars in cash and gems', 'start': 555.839, 'duration': 5.761}
+{'text': 'and 24 bars of solid gold engraved to my', 'start': 558.399, 'duration': 4.0}
+{'text': 'husband', 'start': 561.6, 'duration': 3.12}
+{'text': 'on our 24th anniversary', 'start': 562.399, 'duration': 5.041}
+{'text': 'which is not remotely romantic', 'start': 564.72, 'duration': 4.4}
+{'text': 'that anniversary present is the', 'start': 567.44, 'duration': 3.36}
+{'text': 'pilfering billionaire equivalent of', 'start': 569.12, 'duration': 3.6}
+{'text': 'handing your spouse an envelope of cash', 'start': 570.8, 'duration': 4.24}
+{'text': 'labelled we have been married for 24', 'start': 572.72, 'duration': 4.239}
+{'text': 'years as of today', 'start': 575.04, 'duration': 3.76}
+{'text': 'but obviously they did have to leave', 'start': 576.959, 'duration': 3.521}
+{'text': 'some things behind and for many in the', 'start': 578.8, 'duration': 4.32}
+{'text': 'philippines it was a real shock to see', 'start': 580.48, 'duration': 4.88}
+{'text': "the sheer extent to which they'd just", 'start': 583.12, 'duration': 3.44}
+{'text': 'been robbed', 'start': 585.36, 'duration': 3.2}
+{'text': 'filipinos who used to be kept blocks', 'start': 586.56, 'duration': 4.24}
+{'text': 'from the marcos private universe got a', 'start': 588.56, 'duration': 4.8}
+{'text': '20-minute kaleidoscope of unimaginable', 'start': 590.8, 'duration': 4.08}
+{'text': 'luxury', 'start': 593.36, 'duration': 3.2}
+{'text': 'wow', 'start': 594.88, 'duration': 3.519}
+{'text': "including the former first lady's", 'start': 596.56, 'duration': 4.399}
+{'text': "10-foot wide bed that's why a lot of", 'start': 598.399, 'duration': 4.081}
+{'text': 'people here in the philippines are', 'start': 600.959, 'duration': 3.681}
+{'text': 'disturbing as far as rey is concerned', 'start': 602.48, 'duration': 4.32}
+{'text': 'the marcoses belong in jail he can come', 'start': 604.64, 'duration': 4.4}
+{'text': 'back here in the philippines to face', 'start': 606.8, 'duration': 3.36}
+{'text': 'what they do', 'start': 609.04, 'duration': 3.919}
+{'text': 'to the people of the philippines', 'start': 610.16, 'duration': 4.88}
+{'text': "yeah it's funny seeing the wealth of the", 'start': 612.959, 'duration': 4.161}
+{'text': 'rulers who ripped you off does tend to', 'start': 615.04, 'duration': 3.919}
+{'text': "put things into perspective it's kind of", 'start': 617.12, 'duration': 3.52}
+{'text': 'like how after french workers learned', 'start': 618.959, 'duration': 3.521}
+{'text': 'the majesty of versailles in the 18th', 'start': 620.64, 'duration': 4.24}
+{'text': 'century the revolution was right around', 'start': 622.48, 'duration': 4.56}
+{'text': 'the corner hold on they have four', 'start': 624.88, 'duration': 4.88}
+{'text': 'gold-plated pipe organs yeah these', 'start': 627.04, 'duration': 5.44}
+{'text': ' are gonna have to go', 'start': 629.76, 'duration': 4.319}
+{'text': 'now in the end a government commission', 'start': 632.48, 'duration': 3.359}
+{'text': 'was set up to track down and recover the', 'start': 634.079, 'duration': 4.401}
+{'text': 'stolen money and assets but 36 years', 'start': 635.839, 'duration': 5.041}
+{'text': 'later thanks to court delays and the', 'start': 638.48, 'duration': 4.479}
+{'text': 'marcos is fighting them the whole way', 'start': 640.88, 'duration': 4.32}
+{'text': "they've only retrieved about 5 billion", 'start': 642.959, 'duration': 4.32}
+{'text': 'or around half of what was estimated to', 'start': 645.2, 'duration': 3.84}
+{'text': 'have been stolen this is actually', 'start': 647.279, 'duration': 3.441}
+{'text': 'something that bong bong was directly', 'start': 649.04, 'duration': 3.359}
+{'text': 'asked about when he ran for vice', 'start': 650.72, 'duration': 3.679}
+{'text': 'president six years ago and his response', 'start': 652.399, 'duration': 6.161}
+{'text': 'back then was pretty infuriating', 'start': 654.399, 'duration': 7.161}
+{'text': 'apology', 'start': 658.56, 'duration': 3.0}
+{'text': 'i cannot give what i do not have i do', 'start': 677.44, 'duration': 5.36}
+{'text': 'not have what you are', 'start': 680.56, 'duration': 4.959}
+{'text': 'i do not have control i do not have any', 'start': 682.8, 'duration': 5.84}
+{'text': 'knowledge of any of the thing once again', 'start': 685.519, 'duration': 5.76}
+{'text': 'let me repeat i cannot give what i do', 'start': 688.64, 'duration': 5.36}
+{'text': 'not have yeah not great but also i will', 'start': 691.279, 'duration': 4.401}
+{'text': 'say credit to the sign language', 'start': 694.0, 'duration': 3.2}
+{'text': 'interpreter there who managed to get', 'start': 695.68, 'duration': 3.12}
+{'text': 'across not just what he was saying but', 'start': 697.2, 'duration': 3.6}
+{'text': 'also really communicate his whole big', 'start': 698.8, 'duration': 4.88}
+{'text': "angry crybaby vibe i'm just saying it is", 'start': 700.8, 'duration': 4.32}
+{'text': 'pretty impressive that bongbong is', 'start': 703.68, 'duration': 3.36}
+{'text': 'somehow the biggest baby in this story', 'start': 705.12, 'duration': 5.68}
+{'text': 'and it also contains this guy', 'start': 707.04, 'duration': 5.68}
+{'text': 'and yet despite being booed for that', 'start': 710.8, 'duration': 3.92}
+{'text': 'response bongbong is now on the edge of', 'start': 712.72, 'duration': 4.0}
+{'text': 'being elected president and that is', 'start': 714.72, 'duration': 4.08}
+{'text': 'because over the past decade something', 'start': 716.72, 'duration': 3.679}
+{'text': 'kind of remarkable has happened in the', 'start': 718.8, 'duration': 4.32}
+{'text': 'philippines and that is history has been', 'start': 720.399, 'duration': 4.161}
+{'text': 'rewritten', 'start': 723.12, 'duration': 4.56}
+{'text': 'since the return of the marcoses', 'start': 724.56, 'duration': 5.519}
+{'text': "there's been a trickle of new", 'start': 727.68, 'duration': 4.64}
+{'text': 'information in youtube', 'start': 730.079, 'duration': 4.801}
+{'text': "in google that's a revision of the", 'start': 732.32, 'duration': 7.56}
+{'text': 'interpretation of martial law hello', 'start': 734.88, 'duration': 5.0}
+{'text': '[Music]', 'start': 744.59, 'duration': 3.149}
+{'text': '[Music]', 'start': 753.62, 'duration': 3.039}
+{'text': 'wow that is a stark rewriting of a', 'start': 762.24, 'duration': 4.96}
+{'text': 'terrible period and i do realize that', 'start': 765.2, 'duration': 4.16}
+{'text': "the us isn't exactly perfect here either", 'start': 767.2, 'duration': 4.24}
+{'text': 'we grapple with our greatest monsters by', 'start': 769.36, 'duration': 4.08}
+{'text': 'putting up constant reminders of them on', 'start': 771.44, 'duration': 4.959}
+{'text': 'mountains in town squares and on crisp', 'start': 773.44, 'duration': 4.56}
+{'text': '20 bills', 'start': 776.399, 'duration': 3.921}
+{'text': 'and this willful distortion of history', 'start': 778.0, 'duration': 4.16}
+{'text': 'has been massively abetted by the', 'start': 780.32, 'duration': 3.92}
+{'text': 'internet as the philippines frequently', 'start': 782.16, 'duration': 5.119}
+{'text': 'ranks as the most online nation in the', 'start': 784.24, 'duration': 4.719}
+{'text': 'world that is actually something that', 'start': 787.279, 'duration': 4.0}
+{'text': 'duterte very much benefited from as he', 'start': 788.959, 'duration': 4.401}
+{'text': 'wrote a wave of false stories paid', 'start': 791.279, 'duration': 4.161}
+{'text': 'trolling and facebook engagement all the', 'start': 793.36, 'duration': 4.24}
+{'text': 'way to the presidency in fact facebook', 'start': 795.44, 'duration': 5.04}
+{'text': 'itself even called him the undisputed', 'start': 797.6, 'duration': 5.6}
+{'text': 'king of facebook conversations a title', 'start': 800.48, 'duration': 5.12}
+{'text': 'surprisingly not held by your uncle who', 'start': 803.2, 'duration': 4.319}
+{'text': 'has some really hot takes on the vaccine', 'start': 805.6, 'duration': 4.239}
+{'text': 'he thinks that you should know about', 'start': 807.519, 'duration': 4.32}
+{'text': 'and the internet is now similarly awash', 'start': 809.839, 'duration': 4.0}
+{'text': 'in facebook posts and tick tock videos', 'start': 811.839, 'duration': 4.481}
+{'text': 'that both glorify and romanticize the', 'start': 813.839, 'duration': 5.36}
+{'text': 'marcos family popular posts on facebook', 'start': 816.32, 'duration': 4.4}
+{'text': "have explained away ferdinand's", 'start': 819.199, 'duration': 2.961}
+{'text': 'ill-gotten wealth saying that his', 'start': 820.72, 'duration': 3.28}
+{'text': 'fortune came from treasure left by a', 'start': 822.16, 'duration': 4.56}
+{'text': 'japanese general after world war ii all', 'start': 824.0, 'duration': 5.04}
+{'text': 'that it was earned for being a fantastic', 'start': 826.72, 'duration': 4.96}
+{'text': "lawyer there's also this one suggestion", 'start': 829.04, 'duration': 5.039}
+{'text': 'that marcos at one point gave breads to', 'start': 831.68, 'duration': 4.64}
+{'text': 'a young michael jordan it seems to have', 'start': 834.079, 'duration': 4.161}
+{'text': 'originated as a joke but has since been', 'start': 836.32, 'duration': 4.319}
+{'text': 'passed around completely seriously and', 'start': 838.24, 'duration': 4.959}
+{'text': "let's just break this story down on", 'start': 840.639, 'duration': 6.401}
+{'text': 'december 24th 1969 the marcos family was', 'start': 843.199, 'duration': 5.2}
+{'text': 'in wilmington north carolina to', 'start': 847.04, 'duration': 2.72}
+{'text': 'celebrate the holidays that actually', 'start': 848.399, 'duration': 3.201}
+{'text': "tracks because if you're a billionaire", 'start': 849.76, 'duration': 3.12}
+{'text': 'from the other side of the world and you', 'start': 851.6, 'duration': 2.56}
+{'text': 'want to celebrate the holidays in', 'start': 852.88, 'duration': 3.04}
+{'text': 'america there was only one place that', 'start': 854.16, 'duration': 3.039}
+{'text': "you're going", 'start': 855.92, 'duration': 3.919}
+{'text': "and that's wilmington north carolina", 'start': 857.199, 'duration': 4.721}
+{'text': 'then president marcos was walking in a', 'start': 859.839, 'duration': 3.921}
+{'text': 'park and he saw a skinny child begging', 'start': 861.92, 'duration': 3.44}
+{'text': 'for food he gave him a whole box of', 'start': 863.76, 'duration': 3.68}
+{'text': 'nutribun and said bring this with you', 'start': 865.36, 'duration': 4.159}
+{'text': 'child someday you will grow up to be', 'start': 867.44, 'duration': 4.399}
+{'text': 'someone important so to be clear in this', 'start': 869.519, 'duration': 4.721}
+{'text': 'story president marcos was walking', 'start': 871.839, 'duration': 3.761}
+{'text': 'through a park holding bread', 'start': 874.24, 'duration': 3.68}
+{'text': 'specifically nutribun a bread mainly', 'start': 875.6, 'duration': 4.72}
+{'text': 'sold in the philippines meaning marcos', 'start': 877.92, 'duration': 4.64}
+{'text': 'flew to the united states', 'start': 880.32, 'duration': 4.079}
+{'text': 'with nutribun because he was like what', 'start': 882.56, 'duration': 3.44}
+{'text': 'if we get to wilmington north carolina', 'start': 884.399, 'duration': 3.761}
+{'text': 'my favorite holiday destination and they', 'start': 886.0, 'duration': 4.56}
+{'text': "don't have any bread there then he went", 'start': 888.16, 'duration': 4.32}
+{'text': 'to the park and passed like 10 other', 'start': 890.56, 'duration': 3.6}
+{'text': 'kids thinking none of you are going to', 'start': 892.48, 'duration': 3.76}
+{'text': "grow up to be important so you're not", 'start': 894.16, 'duration': 4.4}
+{'text': 'getting any of my park bread then he saw', 'start': 896.24, 'duration': 4.48}
+{'text': 'michael jordan and was like wait', 'start': 898.56, 'duration': 3.839}
+{'text': "i'm pretty sure that you are gonna be", 'start': 900.72, 'duration': 2.799}
+{'text': 'important', 'start': 902.399, 'duration': 3.041}
+{'text': 'so here have this bread that i brought', 'start': 903.519, 'duration': 3.361}
+{'text': 'with me from the other side of the world', 'start': 905.44, 'duration': 3.6}
+{'text': 'and then that kid grew up to be michael', 'start': 906.88, 'duration': 4.079}
+{'text': 'jordan the greatest basketball player', 'start': 909.04, 'duration': 4.0}
+{'text': 'who ever lived that is the single', 'start': 910.959, 'duration': 3.841}
+{'text': 'dumbest story involving a young michael', 'start': 913.04, 'duration': 4.08}
+{'text': "jordan i've ever heard and i have seen", 'start': 914.8, 'duration': 4.64}
+{'text': 'space jam', 'start': 917.12, 'duration': 5.76}
+{'text': 'so that is just a taste of the online', 'start': 919.44, 'duration': 5.6}
+{'text': 'nonsense which is successfully reframing', 'start': 922.88, 'duration': 3.68}
+{'text': 'the marcos family history and at the', 'start': 925.04, 'duration': 4.32}
+{'text': "same time bongbong's main rival lenny", 'start': 926.56, 'duration': 4.719}
+{'text': 'robredo the current vice president and', 'start': 929.36, 'duration': 3.76}
+{'text': 'the woman that you saw challenging him', 'start': 931.279, 'duration': 4.081}
+{'text': 'in that debate clip earlier has faced', 'start': 933.12, 'duration': 4.159}
+{'text': 'vicious attacks online ranging from', 'start': 935.36, 'duration': 3.76}
+{'text': 'false allegations that she has ties to', 'start': 937.279, 'duration': 3.92}
+{'text': 'armed communist rebels to phony rumors', 'start': 939.12, 'duration': 4.399}
+{'text': 'that she murdered her husband in fact', 'start': 941.199, 'duration': 4.0}
+{'text': 'fact checkers have reported that almost', 'start': 943.519, 'duration': 3.521}
+{'text': 'all the disinformation about robredo is', 'start': 945.199, 'duration': 4.08}
+{'text': 'negative while any disinformation about', 'start': 947.04, 'duration': 4.479}
+{'text': 'bongbong overwhelmingly puts him in a', 'start': 949.279, 'duration': 4.48}
+{'text': 'positive light but maybe the most', 'start': 951.519, 'duration': 4.801}
+{'text': "fantastical lie that bongbong's campaign", 'start': 953.759, 'duration': 4.88}
+{'text': 'has told is actually the most mundane', 'start': 956.32, 'duration': 4.4}
+{'text': 'one that he is not the scion of a', 'start': 958.639, 'duration': 3.841}
+{'text': "political crime family he's just a", 'start': 960.72, 'duration': 4.32}
+{'text': 'regular ordinary citizen who just', 'start': 962.48, 'duration': 4.24}
+{'text': 'happens to be running for president in', 'start': 965.04, 'duration': 4.159}
+{'text': 'fact here is how his wife described the', 'start': 966.72, 'duration': 5.28}
+{'text': 'exact moment that he decided to run', 'start': 969.199, 'duration': 5.041}
+{'text': "you know six months ago he wasn't yet", 'start': 972.0, 'duration': 5.44}
+{'text': 'sure what to do with no party no', 'start': 974.24, 'duration': 5.36}
+{'text': "and then one day we're watching", 'start': 977.44, 'duration': 5.12}
+{'text': 'ant-man in the room and then he looks we', 'start': 979.6, 'duration': 4.799}
+{'text': 'love marvel movies and then he looked at', 'start': 982.56, 'duration': 4.48}
+{'text': "me and he goes okay we're gonna do this", 'start': 984.399, 'duration': 4.88}
+{'text': 'he told me i said do what run for the', 'start': 987.04, 'duration': 3.76}
+{'text': 'presidency', 'start': 989.279, 'duration': 3.441}
+{'text': 'no way', 'start': 990.8, 'duration': 4.479}
+{'text': 'that did not happen', 'start': 992.72, 'duration': 5.359}
+{'text': 'i am calling total on the idea', 'start': 995.279, 'duration': 4.401}
+{'text': 'that bongbong decided to run for', 'start': 998.079, 'duration': 5.2}
+{'text': 'president out of nowhere mid-marvel film', 'start': 999.68, 'duration': 4.959}
+{'text': 'mainly because i can think of a much', 'start': 1003.279, 'duration': 2.8}
+{'text': "more salient reason that he'd want to", 'start': 1004.639, 'duration': 4.081}
+{'text': 'run as president bon bon would hold sway', 'start': 1006.079, 'duration': 3.76}
+{'text': 'over the commission devoted to', 'start': 1008.72, 'duration': 2.559}
+{'text': 'investigating and recovering his', 'start': 1009.839, 'duration': 3.761}
+{'text': "family's wealth as well as the tax", 'start': 1011.279, 'duration': 3.841}
+{'text': 'office which would be particularly', 'start': 1013.6, 'duration': 3.359}
+{'text': 'useful for him as the marcos have', 'start': 1015.12, 'duration': 3.279}
+{'text': 'refused to pay a tax bill that', 'start': 1016.959, 'duration': 4.0}
+{'text': 'reportedly amounts to 3.9 billion', 'start': 1018.399, 'duration': 5.201}
+{'text': 'dollars including penalties so bongbong', 'start': 1020.959, 'duration': 4.161}
+{'text': 'could easily tell his own administration', 'start': 1023.6, 'duration': 3.839}
+{'text': 'to just forget about his massive debt', 'start': 1025.12, 'duration': 4.48}
+{'text': 'which is clearly a very appealing idea', 'start': 1027.439, 'duration': 4.4}
+{'text': 'for him in fact when you think of it', 'start': 1029.6, 'duration': 4.319}
+{'text': 'ant-man could actually be the perfect', 'start': 1031.839, 'duration': 3.36}
+{'text': 'movie to inspire him to run for', 'start': 1033.919, 'duration': 3.04}
+{'text': "president given that it's about a thief", 'start': 1035.199, 'duration': 3.681}
+{'text': 'whose questionable past is forgotten', 'start': 1036.959, 'duration': 4.0}
+{'text': 'after he rises to power using resources', 'start': 1038.88, 'duration': 4.559}
+{'text': 'that he also stole of course he', 'start': 1040.959, 'duration': 4.561}
+{'text': 'likes ant-man', 'start': 1043.439, 'duration': 4.0}
+{'text': "but i will say bong bong's brand", 'start': 1045.52, 'duration': 4.159}
+{'text': 'relaunch has not worked on absolutely', 'start': 1047.439, 'duration': 4.48}
+{'text': 'everyone plenty of filipinos are still', 'start': 1049.679, 'duration': 4.401}
+{'text': 'opposed to him and to having the marcos', 'start': 1051.919, 'duration': 4.0}
+{'text': 'era rewritten in front of their very', 'start': 1054.08, 'duration': 4.08}
+{'text': 'eyes despite trailing bong bong', 'start': 1055.919, 'duration': 4.64}
+{'text': 'massively in the polls lenny robredo has', 'start': 1058.16, 'duration': 5.04}
+{'text': 'inspired huge rallies there and walt', 'start': 1060.559, 'duration': 4.401}
+{'text': 'walden bellow who is running against', 'start': 1063.2, 'duration': 3.839}
+{'text': 'sarah duterte for vice president has', 'start': 1064.96, 'duration': 4.64}
+{'text': 'been outspoken about just how outrageous', 'start': 1067.039, 'duration': 4.161}
+{'text': 'he finds all of this', 'start': 1069.6, 'duration': 2.959}
+{'text': 'marcos has', 'start': 1071.2, 'duration': 4.24}
+{'text': 'created a big public relations machinery', 'start': 1072.559, 'duration': 5.921}
+{'text': 'a social media to convince people try to', 'start': 1075.44, 'duration': 5.68}
+{'text': 'convince people that that the', 'start': 1078.48, 'duration': 4.8}
+{'text': '14 years of martial lawn that the', 'start': 1081.12, 'duration': 5.2}
+{'text': "collective nightmarian uh he's trying to", 'start': 1083.28, 'duration': 6.639}
+{'text': 'use social media and you know', 'start': 1086.32, 'duration': 6.0}
+{'text': 'his hundreds of trolls to say my god', 'start': 1089.919, 'duration': 5.201}
+{'text': 'golden years rouyan this is a family', 'start': 1092.32, 'duration': 5.359}
+{'text': 'that has raped the country it has not', 'start': 1095.12, 'duration': 5.439}
+{'text': 'apologized to the country okay and he', 'start': 1097.679, 'duration': 5.441}
+{'text': 'now wants to rape the country again', 'start': 1100.559, 'duration': 3.921}
+{'text': 'you marcos', 'start': 1103.12, 'duration': 2.48}
+{'text': 'yeah', 'start': 1104.48, 'duration': 2.48}
+{'text': 'well put', 'start': 1105.6, 'duration': 3.52}
+{'text': 'very well', 'start': 1106.96, 'duration': 3.92}
+{'text': "and the thing is the thing is there it's", 'start': 1109.12, 'duration': 3.6}
+{'text': 'clear no matter how hard you try to', 'start': 1110.88, 'duration': 3.52}
+{'text': 'reinvent yourself there is always going', 'start': 1112.72, 'duration': 3.52}
+{'text': 'to be at least some people who remember', 'start': 1114.4, 'duration': 4.08}
+{'text': "who you really are whether you're a new", 'start': 1116.24, 'duration': 4.0}
+{'text': 'college freshman trying on a british', 'start': 1118.48, 'duration': 3.92}
+{'text': 'accent or a massive tech oligarchy', 'start': 1120.24, 'duration': 3.6}
+{'text': 'trying to paper over its complicity and', 'start': 1122.4, 'duration': 3.76}
+{'text': 'violence and genocide hey mark i think', 'start': 1123.84, 'duration': 4.88}
+{'text': "meta's really started to catch on just", 'start': 1126.16, 'duration': 4.0}
+{'text': "give it a few more weeks maybe you're", 'start': 1128.72, 'duration': 3.44}
+{'text': 'doing great buddy', 'start': 1130.16, 'duration': 4.56}
+{'text': 'people are really pumped for this', 'start': 1132.16, 'duration': 5.12}
+{'text': 'look it has been truly amazing to see', 'start': 1134.72, 'duration': 4.4}
+{'text': 'the philippines election unfold because', 'start': 1137.28, 'duration': 4.0}
+{'text': "in this election they're not just voting", 'start': 1139.12, 'duration': 4.48}
+{'text': "on their future they're voting on their", 'start': 1141.28, 'duration': 5.04}
+{'text': 'past specifically which one do they want', 'start': 1143.6, 'duration': 4.56}
+{'text': 'to believe the one where ferdinand', 'start': 1146.32, 'duration': 3.92}
+{'text': 'marcos wreaked havoc on a country and', 'start': 1148.16, 'duration': 4.56}
+{'text': 'its people under martial law or the one', 'start': 1150.24, 'duration': 4.799}
+{'text': 'where he was somehow the greatest nba', 'start': 1152.72, 'duration': 4.16}
+{'text': 'scout of all time', 'start': 1155.039, 'duration': 3.52}
+{'text': 'and i know that most people watching', 'start': 1156.88, 'duration': 4.0}
+{'text': 'this are not eligible to vote in it', 'start': 1158.559, 'duration': 4.881}
+{'text': 'although if you are and you are watching', 'start': 1160.88, 'duration': 5.52}
+{'text': 'maraming salamatpo and to you let me', 'start': 1163.44, 'duration': 5.119}
+{'text': "just say this i do get well you'll be", 'start': 1166.4, 'duration': 3.92}
+{'text': 'skeptical about a breakdown of your', 'start': 1168.559, 'duration': 3.36}
+{'text': 'politics from someone with what i can', 'start': 1170.32, 'duration': 4.64}
+{'text': 'only describe as big colonizer energy', 'start': 1171.919, 'duration': 4.401}
+{'text': 'and', 'start': 1174.96, 'duration': 3.52}
+{'text': 'who lives in a country that is frankly', 'start': 1176.32, 'duration': 3.92}
+{'text': 'no stranger to dishonest billionaires', 'start': 1178.48, 'duration': 3.04}
+{'text': 'who propel themselves to power with', 'start': 1180.24, 'duration': 4.48}
+{'text': "facebook lies so look don't listen to me", 'start': 1181.52, 'duration': 4.88}
+{'text': 'but maybe do listen to your fellow', 'start': 1184.72, 'duration': 4.079}
+{'text': 'citizens who both remember the past and', 'start': 1186.4, 'duration': 4.639}
+{'text': 'are determined not to repeat it because', 'start': 1188.799, 'duration': 4.801}
+{'text': 'bongbong marcos has shown virtually no', 'start': 1191.039, 'duration': 4.321}
+{'text': 'remorse for what his father put the', 'start': 1193.6, 'duration': 3.52}
+{'text': 'country through and if the philippines', 'start': 1195.36, 'duration': 3.92}
+{'text': 'is to avoid more of the same graft and', 'start': 1197.12, 'duration': 3.76}
+{'text': "violence that they've experienced over", 'start': 1199.28, 'duration': 3.92}
+{'text': "the past 50 years they're going to need", 'start': 1200.88, 'duration': 4.32}
+{'text': 'these people and others like them to', 'start': 1203.2, 'duration': 4.32}
+{'text': 'continue bravely speaking out and', 'start': 1205.2, 'duration': 4.479}
+{'text': 'telling the likes of bon bon marcos if i', 'start': 1207.52, 'duration': 3.84}
+{'text': 'may use the poetic words of the', 'start': 1209.679, 'duration': 4.161}
+{'text': 'philippines current president', 'start': 1211.36, 'duration': 6.199}
+{'text': ' you', 'start': 1213.84, 'duration': 3.719}
+{'text': 'you', 'start': 1228.48, 'duration': 2.079}
